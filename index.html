@@ -10,22 +10,22 @@
 <noscript><link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
 <style>
   :root {
-    --bg: #f5f0f9;
+    --bg: #f5f3fa;
     --surface: #ffffff;
-    --surface-2: #ede8f4;
-    --border: #d4cce2;
+    --surface-2: #ede8f5;
+    --border: #cfc8e8;
     --accent: #5c3d8f;
-    --accent-light: #9b72d4;
-    --accent-warm: #d4875c;
+    --accent-light: #8b6fc9;
+    --accent-warm: #c77d35;
     --text: #1a1520;
-    --text-muted: #5c5469;
-    --text-light: #9a8faa;
+    --text-muted: #635878;
+    --text-light: #9488a8;
     --danger: #c0392b;
     --success: #27ae60;
-    --tag-bg: #ede5fb;
-    --tag-text: #4a2d7a;
+    --tag-bg: #ede8f5;
+    --tag-text: #3d2060;
     --shadow: 0 2px 12px rgba(26,21,32,0.08);
-    --shadow-lg: 0 8px 32px rgba(26,21,32,0.13);
+    --shadow-lg: 0 8px 32px rgba(26,21,32,0.12);
     --radius: 8px;
     --radius-lg: 14px;
   }
@@ -53,7 +53,7 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    box-shadow: 0 2px 16px rgba(92,61,143,0.35);
+    box-shadow: 0 2px 16px rgba(45,106,79,0.3);
   }
 
   .header-brand {
@@ -248,12 +248,12 @@
   }
 
   .btn-primary { background: var(--accent); color: white; }
-  .btn-primary:hover { background: #4a3075; }
+  .btn-primary:hover { background: #245a42; }
   .btn-secondary { background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
   .btn-secondary:hover { background: var(--border); }
   .btn-sm { padding: 0.35rem 0.8rem; font-size: 0.8rem; }
   .btn-warm { background: var(--accent-warm); color: white; }
-  .btn-warm:hover { background: #b56a3e; }
+  .btn-warm:hover { background: #a5682b; }
 
   /* FILTER BAR */
   .filter-bar {
@@ -363,7 +363,7 @@
   }
 
   .flashcard-front {
-    background: linear-gradient(135deg, var(--accent) 0%, #3a1f6e 100%);
+    background: linear-gradient(135deg, var(--accent) 0%, #1a4a34 100%);
     color: white;
   }
 
@@ -933,7 +933,7 @@
   /* Source tooltip */
   #sourceTooltip {
     position: fixed;
-    background: #1a1520;
+    background: #1a1714;
     color: white;
     padding: 0.7rem 1rem;
     border-radius: 8px;
@@ -983,7 +983,7 @@
     margin-bottom: 0.75rem; padding-bottom: 0.5rem;
     border-bottom: 2px solid var(--accent-light);
   }
-  .search-section-title { font-family: 'DM Serif Display', serif; font-size: 1rem; font-weight: 400; color: var(--accent); }
+  .search-section-title { font-family: 'DM Serif Display', serif; font-size: 1rem; font-weight: 700; color: var(--accent); }
   .search-count { background: var(--accent); color: white; font-size: 0.7rem; font-weight: 700; padding: 2px 7px; border-radius: 10px; margin-left: auto; }
   .search-result {
     background: var(--surface); border: 1px solid var(--border);
@@ -999,7 +999,7 @@
   .search-prompt .icon { font-size: 2.5rem; margin-bottom: 0.75rem; }
   .search-prompt p { font-size: 0.95rem; }
 
-    ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
   ::-webkit-scrollbar-track { background: var(--surface-2); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
   ::-webkit-scrollbar-thumb:hover { background: var(--text-light); }
@@ -1268,7 +1268,7 @@
 <header>
   <div class="header-brand">
     <h1>Human Development Study Repository</h1>
-    <span class="subtitle">Lifespan Development</span>
+    <span class="subtitle">Human Development / Lifespan Development</span>
   </div>
   <div class="header-search">
     <svg width="14" height="14" fill="none" stroke="white" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -1576,10 +1576,10 @@
 <div class="modal-overlay" id="modal-term">
   <div class="modal">
     <div class="modal-title">Add Glossary Term</div>
-    <div class="form-group"><label>Term</label><input type="text" id="termName" placeholder="e.g. Piaget, Erikson, Attachment…"></div>
+    <div class="form-group"><label>Term</label><input type="text" id="termName" placeholder="e.g. Aphasia, Dysarthria, SLI…"></div>
     <div class="form-group"><label>Definition</label><textarea id="termDef" placeholder="Enter the definition…"></textarea></div>
     <div class="form-group"><label>Module / Week</label><select id="termModule"></select></div>
-    <div class="form-group"><label>Chapter</label><input type="text" id="termChapter" placeholder="e.g. Chapter 3, Week 2…"></div>
+    <div class="form-group"><label>Chapter</label><input type="text" id="termChapter" placeholder="e.g. Chapter 3, Module 2…"></div>
     <div class="form-group"><label>Source</label><input type="text" id="termSource" placeholder="e.g. Textbook Ch. 3, Lecture Week 2…"></div>
     <div class="modal-actions">
       <button class="btn btn-secondary" onclick="closeModal('modal-term')">Cancel</button>
@@ -1592,7 +1592,7 @@
 <div class="modal-overlay" id="modal-flashcard">
   <div class="modal">
     <div class="modal-title">Add Flashcard</div>
-    <div class="form-group"><label>Front (Term or Question)</label><input type="text" id="fcFront" placeholder="e.g. What is Piaget's first stage?"></div>
+    <div class="form-group"><label>Front (Term or Question)</label><input type="text" id="fcFront" placeholder="e.g. What is apraxia of speech?"></div>
     <div class="form-group"><label>Back (Definition or Answer)</label><textarea id="fcBack" placeholder="Enter the answer or definition…"></textarea></div>
     <div class="form-group"><label>Module / Week</label><select id="fcModule"></select></div>
     <div class="form-group"><label>Source</label><input type="text" id="fcSource" placeholder="e.g. Lecture Week 1, Textbook p. 42…"></div>
@@ -2310,7 +2310,7 @@ function updateQuestionForm() {
     <textarea id="qOptions" placeholder="Correct answer&#10;Wrong option B&#10;Wrong option C&#10;Wrong option D" style="min-height:90px"></textarea></div>`;
   } else if (type === 'match') {
     el.innerHTML = `<div class="form-group"><label>Matching Pairs (format: Term | Definition, one pair per line)</label>
-    <textarea id="qPairs" placeholder="Erikson Stage 1 | Trust vs. Mistrust&#10;Piaget Stage 1 | Sensorimotor" style="min-height:90px"></textarea></div>`;
+    <textarea id="qPairs" placeholder="Aphasia | Acquired language disorderErikson Stage 1 | Trust vs. Mistrust&#10;Piaget Stage 1 | Sensorimotor#10;Dysarthria | Motor speech disorder" style="min-height:90px"></textarea></div>`;
   } else { el.innerHTML = ''; }
 }
 
