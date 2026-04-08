@@ -1102,6 +1102,127 @@
   }
 
 
+  /* ===== MODULE DETAIL PAGE ===== */
+  .module-detail-section {
+    margin-bottom: 2rem;
+  }
+  .module-detail-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--accent-light);
+  }
+  .module-detail-section-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--accent);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .module-detail-count {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    background: var(--surface-2);
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+  .module-detail-empty {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    font-style: italic;
+    padding: 0.5rem 0;
+  }
+  .module-term-row {
+    padding: 0.7rem 0;
+    border-bottom: 1px solid var(--surface-2);
+  }
+  .module-term-row:last-child { border-bottom: none; }
+  .module-term-name {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text);
+    margin-bottom: 0.2rem;
+  }
+  .module-term-def {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+  .module-fc-row {
+    background: var(--surface-2);
+    border-radius: var(--radius);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .module-fc-front {
+    font-weight: 600;
+    font-size: 0.88rem;
+    color: var(--text);
+    margin-bottom: 0.3rem;
+  }
+  .module-fc-back {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    white-space: pre-wrap;
+  }
+  .module-q-row {
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--surface-2);
+  }
+  .module-q-row:last-child { border-bottom: none; }
+  .module-q-type {
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 0.2rem;
+  }
+  .module-q-text {
+    font-size: 0.88rem;
+    color: var(--text);
+    font-weight: 500;
+  }
+  .module-note-row {
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--surface-2);
+    cursor: pointer;
+  }
+  .module-note-row:last-child { border-bottom: none; }
+  .module-note-row:hover .module-note-title { color: var(--accent); }
+  .module-note-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--text);
+    transition: color 0.15s;
+  }
+  .module-note-preview {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.15rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .module-list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.6rem 0.75rem;
+    border-bottom: 1px solid var(--surface-2);
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background 0.15s;
+  }
+  .module-list-item:hover { background: var(--tag-bg); }
+  .module-list-item:hover span { color: var(--accent); }
+  .module-list-item:last-child { border-bottom: none; }
+
   /* ===== BACKUP BANNER & RESTORE OVERLAY ===== */
   .backup-banner {
     display: flex;
@@ -1353,6 +1474,21 @@
           </div>
         </div>
       </div>
+    </div>
+
+    <!-- MODULE DETAIL -->
+    <div class="page" id="page-module">
+      <div class="page-header">
+        <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.75rem">
+          <div>
+            <button class="btn btn-secondary btn-sm" onclick="showPage('dashboard')" style="margin-bottom:0.5rem">← Back to Dashboard</button>
+            <h2 id="moduleDetailTitle">Module</h2>
+            <p id="moduleDetailSubtitle">All study content for this module</p>
+          </div>
+          <div style="display:flex;gap:0.5rem;flex-wrap:wrap" id="moduleDetailActions"></div>
+        </div>
+      </div>
+      <div id="moduleDetailContent"></div>
     </div>
 
     <!-- FLASHCARDS -->
@@ -1908,6 +2044,7 @@ function showPage(name) {
   if (name === 'quiz') renderQuizSetup();
   if (name === 'notes') renderNotes();
   if (name === 'manage') renderManage();
+  if (name === 'module') { /* rendered by showModuleDetail */ }
   if (name === 'search') {
     const input = document.getElementById('searchPageInput');
     if (input) setTimeout(() => input.focus(), 50);
@@ -2411,16 +2548,127 @@ function renderDashboard() {
   if (!db.modules.length) {
     moduleList.innerHTML = `<div class="empty-state" style="padding:1rem"><p>No modules yet.</p></div>`;
   } else {
-    moduleList.innerHTML = db.modules.map(m => `
-      <div class="module-list-item">
-        <span>${escHtml(m.name)}</span>
-        <div style="display:flex;gap:0.4rem">
-          <span class="tag">${db.flashcards.filter(f=>f.module===m.id).length} cards</span>
-          <span class="tag warm">${db.questions.filter(q=>q.module===m.id).length} q's</span>
+    moduleList.innerHTML = db.modules.map(m => {
+      const termCount = db.glossary.filter(t => t.module === m.id).length;
+      const cardCount = db.flashcards.filter(f => f.module === m.id).length;
+      const qCount    = db.questions.filter(q => q.module === m.id).length;
+      const noteCount = db.notes.filter(n => n.module === m.id).length;
+      return `
+      <div class="module-list-item" onclick="showModuleDetail('${m.id}')">
+        <span style="font-weight:600;font-size:0.9rem">${escHtml(m.name)}</span>
+        <div style="display:flex;gap:0.4rem;flex-wrap:wrap">
+          ${termCount  ? `<span class="tag neutral">${termCount} terms</span>` : ''}
+          ${cardCount  ? `<span class="tag">${cardCount} cards</span>` : ''}
+          ${qCount     ? `<span class="tag warm">${qCount} q's</span>` : ''}
+          ${noteCount  ? `<span class="tag neutral">${noteCount} notes</span>` : ''}
         </div>
-      </div>`).join('');
+      </div>`;
+    }).join('');
   }
   updateBadges();
+}
+
+// ============================================================
+// MODULE DETAIL
+// ============================================================
+function showModuleDetail(moduleId) {
+  const mod = db.modules.find(m => m.id === moduleId);
+  if (!mod) return;
+
+  // Switch to module page
+  showPage('module');
+
+  // Header
+  document.getElementById('moduleDetailTitle').textContent = mod.name;
+  const terms     = db.glossary.filter(t => t.module === moduleId);
+  const cards     = db.flashcards.filter(f => f.module === moduleId);
+  const questions = db.questions.filter(q => q.module === moduleId);
+  const notes     = db.notes.filter(n => n.module === moduleId);
+  const total     = terms.length + cards.length + questions.length + notes.length;
+  document.getElementById('moduleDetailSubtitle').textContent =
+    `${total} item${total !== 1 ? 's' : ''} — ${terms.length} terms · ${cards.length} cards · ${questions.length} questions · ${notes.length} notes`;
+
+  // Quick action buttons
+  document.getElementById('moduleDetailActions').innerHTML = `
+    <button class="btn btn-primary btn-sm" onclick="showPage('flashcards'); setFcFilter('${moduleId}')">Study Flashcards →</button>
+    <button class="btn btn-secondary btn-sm" onclick="showPage('quiz'); document.getElementById('quizModFilter').value='${moduleId}'">Quiz This Module →</button>
+  `;
+
+  const typeLabels = { mc:'MC', tf:'T/F', fitb:'Fill-in', match:'Match', sa:'Short Answer' };
+
+  // Build sections
+  let html = '';
+
+  // ── Glossary Terms ────────────────────────────────────────
+  html += `<div class="module-detail-section">
+    <div class="module-detail-section-header">
+      <span class="module-detail-section-title">📖 Glossary Terms</span>
+      <span class="module-detail-count">${terms.length}</span>
+    </div>`;
+  if (!terms.length) {
+    html += `<p class="module-detail-empty">No glossary terms in this module.</p>`;
+  } else {
+    html += terms.map(t => `
+      <div class="module-term-row">
+        <div class="module-term-name">${escHtml(t.term)}</div>
+        <div class="module-term-def">${escHtml(t.def)}</div>
+      </div>`).join('');
+  }
+  html += `</div>`;
+
+  // ── Flashcards ────────────────────────────────────────────
+  html += `<div class="module-detail-section">
+    <div class="module-detail-section-header">
+      <span class="module-detail-section-title">🃏 Flashcards</span>
+      <span class="module-detail-count">${cards.length}</span>
+    </div>`;
+  if (!cards.length) {
+    html += `<p class="module-detail-empty">No flashcards in this module.</p>`;
+  } else {
+    html += cards.map(f => `
+      <div class="module-fc-row">
+        <div class="module-fc-front">${escHtml(f.front)}</div>
+        <div class="module-fc-back">${escHtml(f.back)}</div>
+      </div>`).join('');
+  }
+  html += `</div>`;
+
+  // ── Quiz Questions ────────────────────────────────────────
+  html += `<div class="module-detail-section">
+    <div class="module-detail-section-header">
+      <span class="module-detail-section-title">❓ Quiz Questions</span>
+      <span class="module-detail-count">${questions.length}</span>
+    </div>`;
+  if (!questions.length) {
+    html += `<p class="module-detail-empty">No quiz questions in this module.</p>`;
+  } else {
+    html += questions.map(q => `
+      <div class="module-q-row">
+        <div class="module-q-type">${typeLabels[q.type] || q.type}</div>
+        <div class="module-q-text">${escHtml(q.text)}</div>
+      </div>`).join('');
+  }
+  html += `</div>`;
+
+  // ── Notes ─────────────────────────────────────────────────
+  html += `<div class="module-detail-section">
+    <div class="module-detail-section-header">
+      <span class="module-detail-section-title">📝 Notes</span>
+      <span class="module-detail-count">${notes.length}</span>
+    </div>`;
+  if (!notes.length) {
+    html += `<p class="module-detail-empty">No notes in this module.</p>`;
+  } else {
+    html += notes.map(n => `
+      <div class="module-note-row" onclick="showPage('notes'); openNote('${n.id}')">
+        <div class="module-note-title">${escHtml(n.title || 'Untitled')}</div>
+        <div class="module-note-preview">${escHtml((n.body || '').slice(0, 120))}</div>
+      </div>`).join('');
+  }
+  html += `</div>`;
+
+  document.getElementById('moduleDetailContent').innerHTML = html;
+  window.scrollTo(0, 0);
 }
 
 // ============================================================
