@@ -9,8 +9,9 @@ window.REPO_CONFIG = {
   dismissKey:   "hs19_repo_restore_dismissed",
   backupPrefix: "hs19_repository_backup_",
   dataFile:     "humdev_data.json",
-  accentColor:      "#b91c1c",
-  accentColorLight: "#ef4444",
-  accentColorBg:    "#fee2e2",
-  accentColorTag:   "#7f1d1d",
+  // Rose/crimson — warm, distinct
+  accentColor:      "#e11d48",
+  accentColorLight: "#fb7185",
+  accentColorBg:    "#fff1f2",
+  accentColorTag:   "#be1840",
 };
