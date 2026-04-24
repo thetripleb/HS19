@@ -22,6 +22,12 @@
       "name": "Web Imports",
       "desc": "",
       "created": "2026-04-23T17:14:23.242Z"
+    },
+    {
+      "id": "mod1nj9ogjsfe",
+      "name": "Module 3",
+      "desc": "",
+      "created": "2026-04-24T15:07:04.140Z"
     }
   ],
   "glossary": [
@@ -266,6 +272,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "hd-web-vy-g009",
+      "term": "Dynamic Assessment (DA)",
+      "def": "A Vygotsky-derived assessment approach that measures learning potential rather than current performance. Unlike static IQ tests, the assessor actively intervenes during testing (providing hints, coaching, feedback) to reveal a student's ZPD and capacity to learn from instruction. DA is both diagnostic and developmental — it promotes development while assessing it.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch9-g007",
       "term": "Early Childhood Education: Programs and Approaches",
       "def": "CHILD-CENTERED programs (Piaget/Vygotsky influence): stress children's natural inclination to learn through play; self-paced exploration; includes Montessori (individual pride, literacy tasks), Reggio Emilia (creativity in carefully designed setting, originated in Reggio Emilia, Italy), and Waldorf (creativity, social understanding, emotional growth). TEACHER-DIRECTED programs: stress academic subjects taught by a teacher; clear work/play distinction; higher child-adult ratio; less expensive. HEAD START: most widespread U.S. early childhood program, begun in 1965; strongest benefits for children in poverty or with disabilities; vocabulary gains persisted longest. Long-term intensive programs (Perry/High Scope, Abecedarian) show lasting gains.",
@@ -442,6 +456,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "hd-web-vy-g010",
+      "term": "Higher Mental Functions",
+      "def": "Advanced cognitive processes that develop through social interaction and cultural influence, as distinguished from innate elementary mental functions. Characteristics: consciously aware, voluntarily controlled, mediated by cultural tools, and social in origin. Examples: language, logical reasoning, problem-solving, planning, self-regulation, metacognition.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch6-g004",
       "term": "Infantile Amnesia and Infant Memory",
       "def": "Classic theory (Freud): infants store no memories in the first year. Modern view: very young infants can remember when experimental conditions are similar to real life, motivation is high, and special measures aid retrieval. Repeated reminders are more powerful than single reminders. Context is crucial for infants younger than 9 months. Rovee-Collier's mobile experiment showed 3-month-olds could remember after 2 weeks with a reminder session.",
@@ -464,6 +486,22 @@
       "chapter": "8",
       "source": "Berger, 11th ed. — Ch. 8",
       "module": "mnnxvcre63ogf"
+    },
+    {
+      "id": "hd-web-vy-g007",
+      "term": "Inner Speech",
+      "def": "Silent, internalized thought that develops from private speech (around age 7+). For Vygotsky, inner speech is the culmination of language development — the mechanism used for planning, reasoning, self-regulation, and abstract thinking. It represents the full internalization of the language structures used in social life.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-g005",
+      "term": "Internalization",
+      "def": "The process by which externally mediated social activities are transformed into internal mental processes. For Vygotsky, higher mental functions originate in social interaction and are absorbed inward through participation in culturally meaningful activities. It is the bridge between social learning and individual cognition.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "hd-ch12-g004",
@@ -544,6 +582,14 @@
       "chapter": "11",
       "source": "Berger, 11th ed. — Ch. 11",
       "module": "mnnxvcre63ogf"
+    },
+    {
+      "id": "hd-web-vy-g003",
+      "term": "More Knowledgeable Other (MKO)",
+      "def": "Any person or resource that possesses greater knowledge or skill than the learner on a specific task. The MKO is not necessarily a teacher or adult — it can be a peer, sibling, or technology tool (educational software, AI). The role is fluid: learners can become MKOs for others as their own competence grows. MKO guides learners through the ZPD via scaffolding.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "hd-ch5-g007",
@@ -634,6 +680,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "hd-web-vy-g006",
+      "term": "Private Speech",
+      "def": "Audible speech directed at oneself (common in children ages 3+) that serves an intellectual rather than communicative purpose — guiding thinking and behavior. Vygotsky viewed it as the transition point between social speech and inner speech. It is more similar in function to inner speech than to social speech.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch7-g008",
       "term": "Proximal vs. Distal Parenting",
       "def": "PROXIMAL PARENTING: caregiving practices involving physical closeness — frequent holding and touching. Tends to produce toddlers who are less self-aware but more compliant. DISTAL PARENTING: caregiving at a distance — toys, food, and face-to-face communication with minimal holding. Tends to produce children who are more self-aware but less obedient. Notable cultural differences exist. No culture encourages indifference to infant emotions.",
@@ -680,6 +734,14 @@
       "chapter": "7",
       "source": "Berger, 11th ed. — Ch. 7",
       "module": "mnngtb1d86bng"
+    },
+    {
+      "id": "hd-web-vy-g004",
+      "term": "Scaffolding",
+      "def": "The temporary, calibrated support provided by a more knowledgeable other to help a learner complete tasks within their ZPD. Introduced by Wood, Bruner & Ross (1976) — Vygotsky himself never used the term. Effective scaffolding is responsive and gradually faded as the learner gains competence, ultimately transferring full responsibility to the learner.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "hd-ch1-g003",
@@ -778,6 +840,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "hd-web-vy-g001",
+      "term": "Sociocultural Theory",
+      "def": "Vygotsky's theory asserting that cognitive development is fundamentally shaped by social interactions and cultural context. Learning is a shared activity that occurs first between people (interpsychologically) before becoming internalized as individual thought (intrapsychologically). Higher mental functions are not innate but develop through participation in culturally meaningful activities.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch2-g009",
       "term": "Sociocultural Theory (Vygotsky)",
       "def": "Human development results from the dynamic interaction between developing persons and their surrounding society. Culture is integral to development every day. Key concepts: apprenticeship in thinking, guided participation, and zone of proximal development (ZPD). Learning opportunities can be provided by many different mentors, not just trained educators.",
@@ -842,6 +912,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "hd-web-vy-g008",
+      "term": "Tools of Intellectual Adaptation",
+      "def": "Vygotsky's term for culturally specific methods of thinking and problem-solving passed down through generations. Examples include language, writing systems, number systems, mnemonic techniques, art, and diagrams. These tools shape how individuals think and solve problems within their social group, meaning cognitive functions are socio-culturally determined.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch5-g003",
       "term": "Transient Exuberance and Pruning",
       "def": "Early rapid dendrite growth in the brain is called transient exuberance — exuberant because so rapid, transient because some is temporary. Followed by pruning: unused dendrites wither, creating more space between neurons and allowing more synapses and more complex thinking. Use it or lose it principle. Specifics depend on genes, maturation, and experience.",
@@ -864,6 +942,14 @@
       "chapter": "2",
       "source": "Berger, 11th ed. — Ch. 2",
       "module": "mnngtb1d86bng"
+    },
+    {
+      "id": "hd-web-vy-g002",
+      "term": "Zone of Proximal Development (ZPD)",
+      "def": "Vygotsky's concept describing the gap between what a learner can accomplish independently (actual development) and what they can accomplish with guidance from a more knowledgeable other (potential development). The ZPD is the optimal zone for instruction — challenging enough to promote growth but achievable with support. It expands as the learner develops new skills.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "flashcards": [
@@ -1106,6 +1192,46 @@
       "chapter": "16",
       "source": "Berger, 11th ed. — Ch. 16",
       "module": "mnnxvcre63ogf"
+    },
+    {
+      "id": "hd-web-vy-f001",
+      "front": "What is the Zone of Proximal Development (ZPD)?",
+      "back": "The gap between what a learner can do independently (actual development) and what they can do with guidance from a more knowledgeable other (potential development). It is the optimal zone for learning and instruction — challenging but achievable with support. The ZPD expands as the learner grows.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-f002",
+      "front": "What are Vygotsky's three stages of language development and their approximate ages?",
+      "back": "1. SOCIAL SPEECH (2+) — external communication with others\n2. PRIVATE SPEECH (3+) — audible self-directed speech that guides thinking and behavior\n3. INNER SPEECH (7+) — silent, internalized thought used for reasoning and planning\nThought and language begin separately and merge at approximately age 3.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-f003",
+      "front": "Who coined the term 'scaffolding' and did Vygotsky use it?",
+      "back": "Scaffolding was introduced by Wood, Bruner, and Ross (1976). Vygotsky described the concept of guided support within the ZPD but never used the word 'scaffolding' in his writing.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-f004",
+      "front": "What is the More Knowledgeable Other (MKO) and can it be a non-human?",
+      "back": "The MKO is anyone — or anything — with greater knowledge of a specific task than the learner. It can be a teacher, peer, sibling, or a technology tool such as educational software or AI. Even physical tools can act as MKOs (e.g., fraction strips embody math rules and guide learners' thinking by design). The role is fluid and context-dependent.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-f005",
+      "front": "What did Freund (1990) find that supports Vygotsky's ZPD?",
+      "back": "Children who practiced a furniture-placement task with their mothers (ZPD condition) significantly outperformed children who worked alone (discovery learning condition). This supports guided learning within the ZPD as more effective than independent exploration, contrasting with Piaget's discovery learning approach.",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "questions": [
@@ -2228,9 +2354,91 @@
       "chapter": "16",
       "source": "Berger, 11th ed. — Ch. 16",
       "module": "mnnxvcre63ogf"
+    },
+    {
+      "id": "hd-web-vy-q001",
+      "type": "mc",
+      "text": "According to Vygotsky, where does learning occur FIRST before becoming internalized?",
+      "options": [
+        "Within the individual through independent exploration",
+        "Between people in social interaction (interpsychologically)",
+        "Through biological maturation of the brain",
+        "Via observation of the environment without social input"
+      ],
+      "answer": "Between people in social interaction (interpsychologically)",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-q002",
+      "type": "mc",
+      "text": "Which of the following best describes the Zone of Proximal Development (ZPD)?",
+      "options": [
+        "The full range of tasks a child can complete independently",
+        "The gap between actual development and potential development with guidance",
+        "A fixed stage of cognitive development tied to biological age",
+        "The period when a child transitions from private speech to inner speech"
+      ],
+      "answer": "The gap between actual development and potential development with guidance",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-q003",
+      "type": "mc",
+      "text": "A teacher provides a student with hints and prompts during a task, then gradually steps back as the student improves. This best illustrates which concept?",
+      "options": [
+        "Classical conditioning",
+        "Discovery learning",
+        "Scaffolding with fading",
+        "Dynamic assessment"
+      ],
+      "answer": "Scaffolding with fading",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-q004",
+      "type": "mc",
+      "text": "A 4-year-old is observed saying 'First the big block goes here, then this one on top' while building alone. According to Vygotsky, this is an example of:",
+      "options": [
+        "Social speech directed at a peer",
+        "Inner speech fully internalized",
+        "Private speech guiding thinking and behavior",
+        "Egocentric speech with no cognitive function"
+      ],
+      "answer": "Private speech guiding thinking and behavior",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "hd-web-vy-q005",
+      "type": "mc",
+      "text": "Which of the following is the key difference between Dynamic Assessment and traditional static IQ testing?",
+      "options": [
+        "Dynamic Assessment uses only verbal questions; IQ tests use written ones",
+        "Dynamic Assessment measures learning potential with active support; IQ tests measure independent performance only",
+        "Dynamic Assessment is administered in groups; IQ tests are individual",
+        "Dynamic Assessment was developed by Piaget; IQ tests were developed by Vygotsky"
+      ],
+      "answer": "Dynamic Assessment measures learning potential with active support; IQ tests measure independent performance only",
+      "chapter": "web",
+      "source": "SimplyPsychology.org — Vygotsky's Sociocultural Theory (McLeod, 2025)",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "notes": [
+    {
+      "id": "hd-web-vy-n001",
+      "title": "Vygotsky's Sociocultural Theory of Cognitive Development",
+      "chapter": "web",
+      "module": "mobqreyyr9ixi",
+      "body": "SOURCE: SimplyPsychology.org — Saul McLeod, PhD (Updated Oct 16, 2025)\nURL: https://www.simplypsychology.org/vygotsky.html\n\nOVERVIEW\nVygotsky's sociocultural theory argues that cognitive development is fundamentally shaped by social interaction and cultural context. Learning is a shared activity — it happens first between people (interpsychologically) before it becomes internalized as individual thought (intrapsychologically).\n\nCORE PRINCIPLES\n1. Social interaction drives development — children learn through guided participation with more knowledgeable others\n2. Culture shapes cognition — tools, language, and traditions provide the framework for how and what children learn\n3. Language is the primary cognitive tool — not just for communication but for thinking itself\n4. The ZPD identifies the optimal zone for instruction — just beyond current ability, reachable with support\n\nMORE KNOWLEDGEABLE OTHER (MKO)\nThe MKO is anyone — teacher, peer, sibling, or even a technology tool (AI, educational software) — who has greater knowledge of a specific task. The role is fluid: as learners gain competence they can become the MKO for others. Even tools themselves can act as MKOs (e.g., fraction strips embody mathematical rules and guide learners' thinking by design).\n\nZONE OF PROXIMAL DEVELOPMENT (ZPD)\nThe ZPD = gap between what a learner can do independently (actual development) and what they can do with guidance (potential development). It is the optimal zone for instruction — challenging enough to promote growth but achievable with support. The ZPD shifts and expands as the learner develops new skills. It is NOT a fixed state.\n\nKEY RESEARCH: Freund (1990) — children who practiced with their mothers (ZPD condition) significantly outperformed those who worked alone (discovery learning), supporting guided learning over independent exploration.\n\nSCAFFOLDING\nScaffolding = specific strategies an MKO uses to support learners within the ZPD. Term introduced by Wood, Bruner & Ross (1976) — Vygotsky himself never used it.\nSteps: (1) recruit interest, (2) simplify/break into steps, (3) model and prompt, (4) fade support, (5) transfer responsibility to learner.\nEXAMPLE (Shaffer, 1996): Father guides daughter through jigsaw puzzle — points out edge-piece strategy, then progressively steps back as competence grows.\nFADING = systematic reduction of support as learner gains competence.\nTRANSFER OF RESPONSIBILITY = end goal; learner completes task fully independently.\n\nCULTURE AND TOOLS OF INTELLECTUAL ADAPTATION\nEach culture provides children with tools of intellectual adaptation — culturally specific thinking strategies passed down through generations:\n- Language and writing systems\n- Number and counting systems\n- Mnemonic techniques (e.g., knot-tying in pre-literate societies vs. note-taking in Western cultures)\n- Art, diagrams, and maps\nBecause tools are culturally embedded, cognitive functions are socio-culturally determined. Two children from different cultures may develop equally sophisticated thinking through different tools.\n\nLANGUAGE AND COGNITIVE DEVELOPMENT\nVygotsky viewed language as the most powerful cultural tool — a vehicle for thought, not just communication.\nTHREE STAGES:\n1. SOCIAL SPEECH (age 2+): external speech used to communicate with others\n2. PRIVATE SPEECH (age 3+): audible self-directed speech; guides thinking and behavior; child says actions aloud\n3. INNER SPEECH (age 7+): silent, internalized thought; the basis of reasoning and planning\nThought and language begin as separate systems and merge at ~age 3. After this, thought becomes verbal and speech becomes representational.\nPrivate speech is the transition point — more similar in function to inner speech than to social speech.\n\nELEMENTARY vs. HIGHER MENTAL FUNCTIONS\nELEMENTARY: innate basic abilities present from birth (attention, sensation, perception, basic memory)\nHIGHER: advanced cognitive processes developed through social interaction (reasoning, planning, self-regulation, metacognition, language) — NOT innate; acquired through culturally meaningful activities with others.\n\nDYNAMIC ASSESSMENT (DA)\nTraditional IQ tests measure only what a child can do independently (static). DA measures learning potential by including active support during testing — hints, feedback, coaching — to reveal what a child can achieve with guidance. DA is both diagnostic (reveals capabilities) and developmental (promotes learning during the assessment itself).\n\nEDUCATIONAL IMPLICATIONS\n- Target instruction within the ZPD — tasks slightly beyond current ability but achievable with support\n- Collaborative learning (peer, teacher-guided) is essential, not supplementary\n- Scaffold responsively and fade systematically\n- Language-rich environments accelerate cognitive development\n- Make-believe play is cognitively valuable, not just recreational\n- Use dynamic assessment rather than static testing"
+    },
     {
       "id": "hd-ch16-n001",
       "title": "Ch. 16 — Adolescence: Psychosocial Development",
