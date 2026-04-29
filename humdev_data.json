@@ -80,6 +80,22 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g014",
+      "term": "Activities of daily life (ADLs)",
+      "def": "Five basic self-care tasks that are essential for independent living: eating, bathing, toileting, dressing, and transferring from a bed to a chair. Inability to perform any of these tasks is considered a sign of frailty in older adults.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g009",
+      "term": "Activity theory",
+      "def": "A theory of aging that proposes elderly people want and need to remain active across a variety of social spheres—with relatives, friends, and community groups—and that withdrawal occurs only unwillingly as a result of ageism and social exclusion, not because of a natural desire to disengage.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok7h0m2-g006",
       "term": "Acute Pain",
       "def": "Short-term pain that is typically associated with tissue damage or illness. Individuals who have suffered acute pain in the past week experience approximately 14 minutes of sleep debt per night.",
@@ -160,11 +176,27 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g007",
+      "term": "Ageism",
+      "def": "Prejudice, discrimination, and stereotyping directed at older adults based on their age. Ageism adds to stratification and can take many forms, including devaluing older people in youth-oriented cultures or making assumptions about their capabilities.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8an3e-g019",
       "term": "Aging and Expertise",
       "def": "The relationship between advancing age and specialized knowledge, in which accumulated experience can confer advantages in familiar domains; however, expertise cannot fully compensate for age-related declines in general cognitive functioning, and the benefits of additional practice diminish with age.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Gaining Expertise: The Novice and the Expert | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g010",
+      "term": "Aging in place",
+      "def": "The practice of remaining in the same home and community throughout later life, making adjustments as needed to accommodate health changes rather than relocating to institutional care. It is associated with maintaining social connections and identity.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -296,6 +328,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "src-mok5fi6h-g018",
+      "term": "Assisted living",
+      "def": "A living arrangement for elderly people that combines privacy and independence with medical supervision. Assisted-living facilities range from small group homes for a few elderly people to large apartment or townhouse developments for hundreds of residents, and their number has increased as nursing home usage has declined.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "hd-ch11-g003",
       "term": "Asthma and Hygiene Hypothesis",
       "def": "ASTHMA: chronic disease of the respiratory system in which inflammation narrows the airways, causing wheezing, shortness of breath, chest tightness, and coughing. HYGIENE HYPOTHESIS: the idea that early exposure to microbes and allergens helps develop natural resistance. Two pieces of evidence: (1) first-born children are more likely to develop asthma than later-born children; (2) farm children have much lower rates of asthma and allergies. Suggests that reduced outdoor exposure and cleaner environments may be increasing asthma incidence.",
@@ -382,6 +422,14 @@
       "chapter": "10",
       "source": "Berger, 11th ed. — Ch. 10",
       "module": "mnnxvcre63ogf"
+    },
+    {
+      "id": "src-mok5fi6h-g019",
+      "term": "Beanpole family",
+      "def": "A multigenerational family structure characterized by multiple generations (sometimes four or five) but only a few members in each generation, reflecting trends of longer life expectancy and lower birth rates. Relationships span more generations vertically but are narrower horizontally.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
     },
     {
       "id": "src-mok7h0m2-g025",
@@ -1432,6 +1480,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g008",
+      "term": "Disengagement theory",
+      "def": "A theory of aging that proposes aging naturally and inevitably makes a person's social sphere increasingly narrow, resulting in role relinquishment, withdrawal from social roles, and passivity, and that this mutual withdrawal between older adults and society is a natural and appropriate process.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8siwo-g015",
       "term": "Divorce Rate Among Middle-Aged Adults",
       "def": "Livingston (2014) found that 27% of adults aged 45–54 were divorced, with 57% of divorced adults being women, reflecting men's higher likelihood of remarriage. Brown and Lin (2013) noted that while the overall U.S. divorce rate has declined since the 1990s, the rate among those 50 and older has doubled.",
@@ -1565,6 +1621,14 @@
       "def": "A period of significant decline in economic activity, typically involving rising unemployment, reduced consumer spending, and financial instability. The U.S. experienced notable recessions starting in 2001 and again in 2008. During the most recent recession, 55% of adults reported workplace problems such as fewer hours, pay cuts, or switching to part-time work.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Work at Midlife | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g017",
+      "term": "Elder abuse",
+      "def": "Mistreatment of older adults by caregivers or others, which is more likely to occur when the caregiver suffers from emotional problems or substance abuse, the care receiver is frail, confused, and demanding, and the care setting is isolated with few visitors. It can include physical, emotional, financial, and neglect-related harm.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -1784,6 +1848,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g025",
+      "term": "Ethnic stratification",
+      "def": "The differential access to resources and life opportunities based on ethnicity, which creates large discrepancies in income, health, and social status by old age. Immigrant elders often face multiple compounding challenges related to cultural differences in care, housing, and stereotyping.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "hd-ch2-g011",
       "term": "Evolutionary Theory (Development)",
       "def": "Integrates explanations for many issues in human development. Humans have two long-standing biologically based drives: survival and reproduction. Proposes selective adaptation — genetic variations that are particularly beneficial when the environment changes become more prevalent across generations. Focuses more on the nature side of development.",
@@ -1896,6 +1968,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g020",
+      "term": "Familism",
+      "def": "A cultural value system that prioritizes family loyalty, solidarity, and mutual obligation, prompting family caregiving among all relatives. Familism strongly influences the degree of filial responsibility felt by adult children in many cultures.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8up14-g011",
       "term": "Family Advisor (Grandparent Role)",
       "def": "A role identified by Neugarten and Weinstein (1964) in which a grandparent provides guidance, wisdom, and counsel to family members across generations. Like the family historian role, this was more commonly reported by grandfathers than grandmothers.",
@@ -1965,6 +2045,14 @@
       "def": "A biological stress response in which the body mobilizes physiological resources (e.g., increased heart rate, hormonal changes) in preparation to either confront or flee from a perceived threat. It is one of the recognized sources of stress and contributes to heightened physiological arousal.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Stress | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g021",
+      "term": "Filial responsibility",
+      "def": "The cultural and moral obligation of adult children to care for their aging parents. The extent and nature of filial responsibility varies worldwide and by culture, and it can differ between sons (who tend to feel stronger obligation) and daughters (who tend to feel stronger affection).",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -2088,6 +2176,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "src-mok5fi6h-g013",
+      "term": "Frail elderly",
+      "def": "People over age 65, and often over age 85, who are physically infirm, very ill, or cognitively disabled. Frailty is most common in the months preceding death (terminal decline), and most older adults become frail if they live long enough, though North Americans who live to 95 are independent for most of those years.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok77jun-g017",
       "term": "Frailty",
       "def": "A clinical syndrome associated with aging, characterized by weakness, reduced physical activity, exhaustion, slow walking speed, and unintentional weight loss. Sarcopenia is considered a significant contributing factor to frailty and functional impairment in older adults.",
@@ -2160,6 +2256,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g026",
+      "term": "Gender stratification",
+      "def": "The unequal distribution of resources and opportunities based on gender that continues into late adulthood. Examples include irrational fear limiting women's independence, the pattern of women marrying older men, and men seeking medical help less frequently than women.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8klv4-g003",
       "term": "General Adaptation Syndrome (GAS)",
       "def": "A three-phase model of the stress response developed by Hans Selye (1946). The three phases are: (1) mobilization of physiological resources (alarm phase), (2) coping phase (resistance), and (3) exhaustion phase, in which the organism fails to cope adequately and depletes its resources, leading to potential health breakdown.",
@@ -2189,6 +2293,14 @@
       "def": "Erik Erikson's seventh psychosocial stage, occurring in middle adulthood, in which individuals focus on contributing to society through raising children, mentoring others, productivity, and creativity. Failure to achieve generativity results in stagnation.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: References | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g023",
+      "term": "Generativity",
+      "def": "Erikson's concept of the drive to create, nurture, and contribute to future generations. In late adulthood, generativity can be fulfilled through work, volunteer activities, grandparenting, and mentoring, and it is a key psychological benefit of remaining active.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -2616,6 +2728,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g030",
+      "term": "Holding on to the self",
+      "def": "A concept in self theory describing how most older people feel their personalities and attitudes have remained stable over their life span, even as they recognize physical changes. Objects and places become more precious to older adults as a means of maintaining identity and continuity of self.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8klv4-g005",
       "term": "Homeostasis",
       "def": "The body's tendency to maintain internal physiological equilibrium or stability. Stress is defined in part as a response that disturbs homeostasis, requiring the organism to mobilize resources in order to restore balance.",
@@ -2728,6 +2848,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g024",
+      "term": "Income stratification",
+      "def": "The socioeconomic inequality that accumulates over a lifetime based on employment, savings, and benefits such as Social Security, which creates large disparities in financial resources in old age. Poverty magnifies the stratification effects of gender, ethnicity, and age.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok714ui-g015",
       "term": "Individual Differences",
       "def": "The considerable variation among people of the same age group in their physical, cognitive, and psychosocial characteristics and development. Middle adulthood is particularly notable for wide individual differences due to the cumulative effects of different genetic backgrounds, lifestyle choices, cultural factors, and life experiences over decades.",
@@ -2792,6 +2920,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g015",
+      "term": "Instrumental activities of daily life (IADLs)",
+      "def": "More complex actions that are important to independent living and require some intellectual competence and forethought, such as paying bills, driving a car, managing medications, and preparing meals. The ability to perform IADLs may be even more critical to self-sufficiency than ADL ability.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok7dg3q-g021",
       "term": "Insulin",
       "def": "A hormone produced by the pancreas that helps glucose in the blood enter cells to provide them with energy. In Type 2 diabetes, cells become resistant to insulin's effects, and the pancreas may eventually lose the ability to produce sufficient quantities. When pancreatic beta cells cease functioning in Type 2 diabetics, insulin injections become necessary.",
@@ -2813,6 +2949,22 @@
       "def": "A condition in which cells in the body do not respond effectively to insulin, leading to elevated blood glucose levels. Irregular sleep schedules in midlife women are associated with increased insulin resistance, an important indicator of metabolic health and diabetes risk.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Sleep | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g002",
+      "term": "Integrity versus despair",
+      "def": "Erikson's eighth and final psychosocial stage, occurring in late adulthood, in which individuals reflect on their lives through a life review. Those who feel their life was meaningful and well-lived achieve integrity, while those who feel regret or believe their life was wasted experience despair.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g032",
+      "term": "Intergenerational relationships",
+      "def": "Social and familial connections between people of different generations, including parents and adult children, grandparents and grandchildren. These relationships are shaped by factors including need, geographical proximity, childhood memories, cultural values, and emotional closeness, and can include both positive bonds and ambivalence.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -3120,6 +3272,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g003",
+      "term": "Life review",
+      "def": "A reflective process in late adulthood, described by Erikson, in which older adults look back on their lives, attempt to integrate their unique experiences with a broader vision of community, and evaluate whether their life had meaning and purpose.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "hd-ch1-g006",
       "term": "Life-Span Perspective",
       "def": "An approach to studying human development that takes into account all phases of life, not just childhood or adulthood. Development is viewed as multidirectional, multicontextual, multicultural, multidisciplinary, and plastic.",
@@ -3181,6 +3341,14 @@
       "def": "A researcher who reported that 27% of adults aged 45–54 were divorced, that 57% of divorced adults were women, and that older adults are more likely to have remarried. Also noted that adults aged 55 and older are remarrying at higher rates than in the past.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Middle Adult Lifestyles | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g029",
+      "term": "Long-term care",
+      "def": "Nursing home and residential care that provides continuous medical supervision and support for elderly individuals who can no longer live independently. Good long-term care allows independence, individual choice, and privacy while providing continuity of care from well-trained staff.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -3752,6 +3920,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g011",
+      "term": "Naturally occurring retirement community (NORC)",
+      "def": "A neighborhood or apartment complex whose population is mostly retired people who moved to the location as younger adults and never left. NORCs develop organically rather than by design and are important for preserving social convoys and supporting aging in place.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "hd-ch1-g004",
       "term": "Nature vs. Nurture",
       "def": "Nature = the genetic influence on a person. Nurture = all non-genetic influences, from the mother's nutrition during pregnancy to national culture, family, school, community, and society. Nature always affects nurture, and nurture affects nature. The two are inseparable and interact continuously.",
@@ -4160,6 +4336,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "src-mok5fi6h-g028",
+      "term": "Political activity in late adulthood",
+      "def": "Older adults (65+) are the most politically engaged age group relative to formal civic participation such as voting, writing to representatives, identifying with a political party, and staying informed. However, only about 7% volunteer for political, civic, international, or professional groups, and only 2% volunteer for political campaigns.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok91wnk-g005",
       "term": "Positive Affect",
       "def": "The experience of positive emotional states such as joy, enthusiasm, and contentment. Higher levels of spirituality have been associated with higher levels of positive affect according to the 2005 National Survey of Midlife in the United States.",
@@ -4173,6 +4357,14 @@
       "def": "The tendency of older adults to focus more on positive information and less on negative information compared to younger adults. This includes better memory for positive images and reduced amygdala response to negative stimuli.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Brain Functioning | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g005",
+      "term": "Positivity effect",
+      "def": "The tendency observed in elderly people to perceive, prefer, and remember positive images and experiences more than negative ones. It is considered an outgrowth of socioemotional selectivity theory and selective optimization with compensation, and it reflects the convergence of the ideal self and real self with age.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -4504,6 +4696,14 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g031",
+      "term": "Religious involvement in late adulthood",
+      "def": "Participation in religious practices and faith communities, which correlates with improved physical and emotional health in older adults. Benefits include health-promoting prohibitions, caring social relationships, reduced stress through meaning-making around life and death, and particularly strong identity reinforcement for minority group elders.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8siwo-g008",
       "term": "Remarriage",
       "def": "A marriage in which one or both partners have been previously married. In 2013, the remarriage rate was approximately 28 per 1,000 adults aged 18 and older, representing a 44% decline since 1990. Men remarry at higher rates than women at every age group starting at 25, though this gender gap has narrowed over time.",
@@ -4808,6 +5008,22 @@
       "module": ""
     },
     {
+      "id": "src-mok5fi6h-g022",
+      "term": "Selective optimization with compensation",
+      "def": "A strategy used by older adults to maintain high functioning by selecting the most important goals, optimizing their efforts toward those goals, and compensating for losses with new strategies or tools. Older couples often achieve this together in their partnerships.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g001",
+      "term": "Self theories",
+      "def": "Psychological theories of late adulthood that emphasize the core self and the search to maintain one's integrity and identity throughout aging, focusing on how individuals preserve a sense of self despite physical and cognitive decline.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8mh67-g007",
       "term": "Self-generation",
       "def": "A dimension of generativity concerned with the individual's own continued identity development during middle adulthood. It reflects the idea that generativity includes personal growth and further refinement of the self, not only contributions to others.",
@@ -5040,6 +5256,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "src-mok5fi6h-g012",
+      "term": "Social convoy",
+      "def": "The accumulation of close relationships built over a lifetime that travel with an individual through life, providing social support, identity reinforcement, and emotional sustenance. The social convoy is a key reason for the importance of aging in place and NORCs.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
       "id": "src-mok8klv4-g009",
       "term": "Social Integration",
       "def": "A concept describing the number and variety of social roles a person occupies (e.g., daughter, team member, volunteer, coworker, student). Greater social integration is associated with better health outcomes, as multiple social roles provide encouragement to maintain healthy lifestyles and access to social support during stress.",
@@ -5126,6 +5350,14 @@
       "chapter": "1",
       "source": "Berger, 11th ed. — Ch. 1",
       "module": "mnngtb1d86bng"
+    },
+    {
+      "id": "src-mok5fi6h-g004",
+      "term": "Socioemotional selectivity theory",
+      "def": "A theory proposed by Laura Carstensen stating that as people age and perceive their future time as limited, they prioritize emotional regulation and focus on familiar, emotionally meaningful social contacts who reinforce generativity, pride, and joy, rather than seeking new or peripheral relationships.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
     },
     {
       "id": "src-mok7jm4v-g006",
@@ -5237,6 +5469,14 @@
       "def": "A characteristic of expert cognition in which experts employ more effective problem-solving strategies than novices. Experts can discount misleading symptoms or distractors and focus on the most likely or central issue, generating more accurate hypotheses (Norman, 2005).",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Gaining Expertise: The Novice and the Expert | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-g006",
+      "term": "Stratification theories",
+      "def": "Theories of late adulthood that emphasize how social forces such as gender, ethnicity, income, and age create structural inequalities that limit individual choices and affect a person's ability to function in late adulthood, as past disadvantages accumulate and continue to limit life.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     },
     {
@@ -5374,6 +5614,14 @@
       "chapter": "4",
       "source": "Berger, 11th ed. — Ch. 4",
       "module": "mnngtb1d86bng"
+    },
+    {
+      "id": "src-mok5fi6h-g016",
+      "term": "Terminal decline",
+      "def": "The period of rapid physical and cognitive deterioration that typically occurs in the months preceding death. Frailty is most common during this period, even among individuals who were largely independent throughout their older adult years.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
     },
     {
       "id": "src-mok77jun-g020",
@@ -5598,6 +5846,14 @@
       "chapter": "web",
       "source": "File: bergerls11e_Chapter 19.pptx",
       "module": "mod1nj9ogjsfe"
+    },
+    {
+      "id": "src-mok5fi6h-g027",
+      "term": "Volunteer work (in late adulthood)",
+      "def": "Unpaid service performed by older adults for organizations, communities, or individuals. Linked to generativity, social connections, reduced depression, and improved health, volunteer work may also reduce death rates and is encouraged by social modeling and explicit suggestions.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
     },
     {
       "id": "hd-ch9-g004",
@@ -9215,6 +9471,182 @@
       "back": "Avis, Stellato & Crawford (2001) examined whether a universal menopausal syndrome exists across racial and ethnic groups. They found that menopausal symptoms and their severity vary significantly by racial and ethnic background, suggesting that the menopausal experience is culturally and biologically diverse rather than uniform.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: References | Lifespan Development",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f001",
+      "front": "What is the key developmental task of Erikson's integrity versus despair stage, and what are its two possible outcomes?",
+      "back": "The key task is a life review—reflecting on one's life and integrating experiences with a vision of community. Those who view their life positively and retain identity despite decline achieve integrity; those who feel regret or believe their life lacked meaning experience despair. Integrity is most likely for those who achieved identity earlier in life.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f002",
+      "front": "How does socioemotional selectivity theory explain changes in social relationships in late adulthood?",
+      "back": "As older adults perceive their future time as limited, they prioritize emotional regulation and seek familiar, meaningful social contacts who reinforce generativity, pride, and joy. They actively reduce peripheral social contacts and focus on emotionally rewarding relationships, resulting in smaller but more satisfying social networks.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f003",
+      "front": "What is the positivity effect, and how is it related to self-acceptance?",
+      "back": "The positivity effect is the tendency for elderly people to perceive, prefer, and remember positive images and experiences more than negative ones. It reflects the convergence of the ideal self and the real self with age—as self-acceptance increases, happiness follows. It is an outgrowth of socioemotional selectivity theory and selective optimization.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f004",
+      "front": "What are the five ADLs, and why are they clinically significant?",
+      "back": "The five ADLs are eating, bathing, toileting, dressing, and transferring from a bed to a chair. They are clinically significant because inability to perform any of them is considered a sign of frailty. They serve as a standard measure of functional independence in older adults.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f005",
+      "front": "How do IADLs differ from ADLs, and why may IADLs be more critical to self-sufficiency?",
+      "back": "ADLs are basic physical self-care tasks. IADLs are more complex tasks requiring intellectual competence and forethought, such as paying bills and driving. IADLs may be even more critical because they reflect the cognitive and organizational capacity needed to manage daily life independently, and their loss often precedes full dependence.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f006",
+      "front": "What distinguishes disengagement theory from activity theory in explaining aging?",
+      "back": "Disengagement theory holds that aging naturally leads to mutual withdrawal between the individual and society—role relinquishment and passivity are seen as natural. Activity theory holds that elderly people want and need to stay active and that withdrawal happens only due to external forces like ageism, not by natural desire.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f007",
+      "front": "Under what conditions is retirement most likely to negatively affect health?",
+      "back": "Retirement correlates with illness and decline only when it is precipitated by poor health or fading competence, not when it is voluntary. In most cases, retirement does not inherently cause health problems and can be associated with wellbeing when chosen freely.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f008",
+      "front": "What risk factors increase the likelihood of elder abuse?",
+      "back": "Elder abuse is more likely when: (1) the caregiver suffers from emotional problems or substance abuse, (2) the care receiver is frail, confused, and demanding, and (3) the care location is isolated with few visitors. Resentment and social isolation in caregiving relationships also escalate the risk.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f009",
+      "front": "What is a NORC and why is it developmentally significant?",
+      "back": "A NORC (naturally occurring retirement community) is a neighborhood or apartment complex where most residents are retirees who moved there as younger adults and never left. It is significant because it supports aging in place and preserves the social convoy—the long-term close relationships that are critical to wellbeing in late adulthood.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f010",
+      "front": "How does religious involvement benefit elderly people, especially minority group members?",
+      "back": "Religious involvement correlates with better physical and emotional health through several mechanisms: health-promoting behavioral prohibitions, caring community relationships, meaning-making that reduces stress around life and death, and identity reinforcement. For minority group elders, religious identity often provides stronger community identification than national or ethnic background.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f011",
+      "front": "What are the key differences between how sons and daughters relate to aging parents?",
+      "back": "Research shows that sons feel a stronger sense of obligation to care for aging parents, while daughters feel stronger affection. This difference affects the nature of caregiving and relationship quality. Additionally, frequency of contact is related to geographic proximity rather than the level of affection.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f012",
+      "front": "What factors shape the grandparent-grandchild relationship?",
+      "back": "The nature of grandparent-grandchild relationships is influenced by: the grandparent's personality, ethnicity, national background, past family interactions, and the age and personality of the grandchild. Approximately 85% of adults over age 65 are grandparents.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f013",
+      "front": "What is the beanpole family, and what social trends have contributed to its emergence?",
+      "back": "A beanpole family has multiple generations (sometimes four or five) but only a few members in each generation. It has emerged due to longer life expectancy combined with lower birth rates. Today some families span five generations, whereas in past centuries most adults died before their grandchildren were born.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f014",
+      "front": "How do stratification theories differ from self theories in explaining late adulthood?",
+      "back": "Self theories focus on internal psychological processes—how individuals maintain identity and integrity. Stratification theories focus on external social structures, arguing that accumulated disadvantages based on gender, ethnicity, income, and age limit an individual's choices and functioning in late adulthood, regardless of personal effort.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f015",
+      "front": "What psychological and social benefits does work provide for older adults?",
+      "back": "Work provides social support and status, boosts self-esteem, enables generativity, and gives a sense of purpose. Many of these benefits can also be obtained through volunteer work. Some older adults continue working past 65 not only for financial reasons but for social recognition and self-fulfillment.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f016",
+      "front": "What is 'aging in place' and why is disruption of this particularly harmful for certain groups?",
+      "back": "Aging in place involves remaining in the same home and community in later life, adjusting as health fades rather than relocating. Disruption of social connections through relocation is especially harmful for women and the frailest older adults, who depend most heavily on established community and social networks.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f017",
+      "front": "How does the real self versus ideal self dynamic change with age, and what is the psychological significance?",
+      "back": "Research shows that with age, the real self (how one perceives oneself) and the ideal self (what one hopes to be) converge and become more aligned. This convergence reflects increasing self-acceptance, which according to self theory leads to greater happiness and is associated with the positivity effect.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f018",
+      "front": "Why might conflict be more common in emotionally close intergenerational relationships than in distant ones?",
+      "back": "Closer relationships involve greater mutual expectations, interdependence, and emotional investment, which increases the potential for ambivalence and conflict. Additionally, adult children may imagine parental disapproval even when it is not overtly expressed, and disagreements about caregiving, schedules, and decisions are more salient when relationships are emotionally charged.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f019",
+      "front": "What role does volunteer work play in health outcomes for elderly adults, and what encourages volunteering?",
+      "back": "Volunteer work is linked to generativity, social connections, reduced depression, improved health, and may reduce death rates. Volunteering is increased by knowing someone else who volunteers, by explicit encouragement, and by specific suggestions for volunteer opportunities. Official statistics undercount elder volunteering because informal help to friends and family is not tracked.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f020",
+      "front": "How does income stratification specifically affect older adults, and what mechanisms are involved?",
+      "back": "Income stratification directly affects older adults through accumulated lifetime disadvantages in employment, savings, and Social Security benefits. Poverty magnifies stratification by gender, ethnicity, and age. Stress and accumulating disadvantages become increasingly limiting as age advances, creating compounding inequalities in health, housing, and social resources.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f021",
+      "front": "What makes a marriage protective in late adulthood, according to the research on partnerships?",
+      "back": "Spouses in strong marriages provide a buffer against old age problems and protect health. An exceedingly positive spousal portrayal facilitates discussion rather than argument and integration rather than domination. Together, couples can achieve selective optimization with compensation, helping each other manage age-related decline more effectively.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-f022",
+      "front": "What is filial responsibility and how does it vary?",
+      "back": "Filial responsibility is the obligation of adult children to care for their aging parents. It varies widely by culture and country. In the United States, older adults tend to value independence and often provide more help to their children than they receive. Globally, the degree and nature of expected filial care differs significantly based on cultural values and resources.",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
     }
   ],
@@ -18039,9 +18471,466 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: References | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q001",
+      "type": "mc",
+      "text": "According to Erikson, which of the following best describes the outcome of failing to resolve the integrity versus despair stage?",
+      "answer": "Despair",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Generativity",
+        "Stagnation",
+        "Despair",
+        "Isolation"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q002",
+      "type": "mc",
+      "text": "Which theory argues that older adults naturally and appropriately withdraw from social roles as a mutual process between the individual and society?",
+      "answer": "Disengagement theory",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Activity theory",
+        "Socioemotional selectivity theory",
+        "Disengagement theory",
+        "Stratification theory"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q003",
+      "type": "mc",
+      "text": "The positivity effect in late adulthood refers to the tendency of elderly people to:",
+      "answer": "Perceive, prefer, and remember positive images and experiences more than negative ones",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Deny negative aspects of their health",
+        "Perceive, prefer, and remember positive images and experiences more than negative ones",
+        "Avoid all conflict in social relationships",
+        "Overestimate their physical capabilities"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q004",
+      "type": "mc",
+      "text": "Which of the following is NOT classified as an Activity of Daily Life (ADL)?",
+      "answer": "Paying bills",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Bathing",
+        "Toileting",
+        "Paying bills",
+        "Transferring from a bed to a chair"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q005",
+      "type": "mc",
+      "text": "A naturally occurring retirement community (NORC) is best described as:",
+      "answer": "A neighborhood where residents moved as younger adults and aged in place",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "A planned retirement village built for seniors",
+        "A neighborhood where residents moved as younger adults and aged in place",
+        "A nursing home providing assisted living services",
+        "A government-designated senior housing program"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q006",
+      "type": "mc",
+      "text": "Which of the following correctly describes the relationship between retirement and health?",
+      "answer": "Retirement correlates with illness only when precipitated by poor health or fading competence",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Retirement always leads to rapid health decline",
+        "Retirement improves health universally for all older adults",
+        "Retirement correlates with illness only when precipitated by poor health or fading competence",
+        "Mandatory retirement age policies eliminate all health risks of retirement"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q007",
+      "type": "mc",
+      "text": "According to research on intergenerational relationships, which of the following is TRUE?",
+      "answer": "Frequency of contact is related to geographical proximity, not affection",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Frequency of contact is most strongly related to level of affection",
+        "Sons feel stronger affection while daughters feel stronger obligation",
+        "Frequency of contact is related to geographical proximity, not affection",
+        "Older U.S. adults receive more help from children than they provide"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q008",
+      "type": "mc",
+      "text": "Elder abuse is MOST likely to occur when which of the following conditions is present?",
+      "answer": "The care location is isolated with few visitors",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "The care receiver lives in a busy urban nursing home",
+        "The caregiver has extensive professional training",
+        "The care location is isolated with few visitors",
+        "The caregiver is a paid professional"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q009",
+      "type": "mc",
+      "text": "Instrumental activities of daily life (IADLs) differ from ADLs in that IADLs:",
+      "answer": "Require intellectual competence and forethought",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Involve only physical self-care tasks",
+        "Require intellectual competence and forethought",
+        "Are limited to five standardized tasks",
+        "Can only be assessed in clinical settings"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q010",
+      "type": "mc",
+      "text": "What percentage of adults over age 65 are grandparents?",
+      "answer": "85 percent",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "65 percent",
+        "75 percent",
+        "85 percent",
+        "95 percent"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q011",
+      "type": "mc",
+      "text": "Which political behavior do adults over 65 engage in MORE than any other age group?",
+      "answer": "Writing letters to their representatives and voting",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Volunteering for political campaigns",
+        "Running for local office",
+        "Writing letters to their representatives and voting",
+        "Joining international advocacy organizations"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q012",
+      "type": "mc",
+      "text": "Socioemotional selectivity theory was primarily developed to explain why older adults:",
+      "answer": "Prioritize emotionally meaningful relationships over peripheral ones",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Experience more depression than younger adults",
+        "Prioritize emotionally meaningful relationships over peripheral ones",
+        "Disengage from society naturally",
+        "Show declining cognitive function"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q013",
+      "type": "mc",
+      "text": "According to stratification theory, which of the following BEST explains why immigrant elders face unique challenges?",
+      "answer": "They face multiple compounding challenges including cultural differences in care, housing, and stereotypes",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "They prefer to remain isolated from mainstream society",
+        "They face multiple compounding challenges including cultural differences in care, housing, and stereotypes",
+        "They typically have higher incomes than native-born elders",
+        "They are more likely to live in nursing homes"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q014",
+      "type": "mc",
+      "text": "The beanpole family structure is characterized by:",
+      "answer": "Multiple generations with only a few members in each",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Many members in few generations",
+        "Multiple generations with only a few members in each",
+        "A single generation with many siblings",
+        "Two-parent households with multiple children"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q015",
+      "type": "mc",
+      "text": "Which of the following is an example of an instrumental activity of daily life (IADL)?",
+      "answer": "Managing medications and paying bills",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Eating a meal independently",
+        "Bathing without assistance",
+        "Managing medications and paying bills",
+        "Transferring from a wheelchair to a bed"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q016",
+      "type": "mc",
+      "text": "According to activity theory, social withdrawal in late adulthood is primarily caused by:",
+      "answer": "Ageism and external social exclusion",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "A natural, universal desire to disengage",
+        "Biological deterioration of social instincts",
+        "Ageism and external social exclusion",
+        "Voluntary prioritization of solitude"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q017",
+      "type": "mc",
+      "text": "Religious involvement in late adulthood is associated with which of the following health benefits?",
+      "answer": "Reduced stress through meaning-making and caring community relationships",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "Increased risk-taking behaviors",
+        "Reduced social interaction",
+        "Reduced stress through meaning-making and caring community relationships",
+        "Higher rates of hospitalization"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q018",
+      "type": "mc",
+      "text": "In the United States, who is typically the primary caregiver for a frail elderly person?",
+      "answer": "The spouse",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": "",
+      "options": [
+        "A professional nurse",
+        "An adult daughter",
+        "The spouse",
+        "A government social worker"
+      ]
+    },
+    {
+      "id": "src-mok5fi6h-q019",
+      "type": "tf",
+      "text": "According to self theory, most older people feel their personalities and attitudes have changed dramatically over their life span.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q020",
+      "type": "tf",
+      "text": "Disengagement theory views the withdrawal of older adults from social roles as a natural and appropriate process that benefits both the individual and society.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q021",
+      "type": "tf",
+      "text": "Frailty in older adults is most common during the months preceding death, a period known as terminal decline.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q022",
+      "type": "tf",
+      "text": "Frequency of contact between elderly parents and their adult children is primarily determined by the degree of affection between them.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q023",
+      "type": "tf",
+      "text": "Adults aged 65 and older are the age group most likely to volunteer for political campaigns compared to all other age groups.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q024",
+      "type": "tf",
+      "text": "The positivity effect refers to the tendency of elderly people to perceive and remember positive experiences more than negative ones.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q025",
+      "type": "tf",
+      "text": "The number of assisted-living facilities has increased as the number of nursing homes has decreased in the United States.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q026",
+      "type": "tf",
+      "text": "Stratification theories emphasize that individual choices and personal effort can fully overcome the social inequalities of gender, ethnicity, and income in late adulthood.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q027",
+      "type": "tf",
+      "text": "Research on grandparenting indicates that the grandparent-grandchild relationship is uniform across all ethnic and national backgrounds.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q028",
+      "type": "tf",
+      "text": "Volunteer work in late adulthood has been linked to reduced rates of depression and may reduce death rates.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q029",
+      "type": "fitb",
+      "text": "The ___ is the psychosocial stage described by Erikson in which older adults reflect on their lives and either achieve a sense of meaning or experience regret.",
+      "answer": "integrity versus despair",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q030",
+      "type": "fitb",
+      "text": "The tendency for elderly people to perceive, prefer, and remember positive images and experiences more than negative ones is called the ___.",
+      "answer": "positivity effect",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q031",
+      "type": "fitb",
+      "text": "A neighborhood or apartment complex whose population is mostly retired people who moved there as younger adults and never left is called a ___.",
+      "answer": "naturally occurring retirement community (NORC)",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q032",
+      "type": "fitb",
+      "text": "The five basic self-care tasks essential to independent living, including eating, bathing, and dressing, are collectively known as ___.",
+      "answer": "activities of daily life (ADLs)",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q033",
+      "type": "fitb",
+      "text": "The ___ theory of aging proposes that elderly people want and need to remain active and that withdrawal occurs only as a result of ageism, not by natural desire.",
+      "answer": "activity",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q034",
+      "type": "fitb",
+      "text": "The cultural obligation of adult children to care for their aging parents is referred to as ___ responsibility.",
+      "answer": "filial",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q035",
+      "type": "fitb",
+      "text": "A family structure with multiple generations but only a few members in each generation is called a ___ family.",
+      "answer": "beanpole",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q036",
+      "type": "fitb",
+      "text": "The practice of remaining in the same home and community in later life, making adjustments as health fades, is known as ___.",
+      "answer": "aging in place",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q037",
+      "type": "fitb",
+      "text": "The accumulation of close relationships built over a lifetime that travel with an individual and provide emotional support is called the social ___.",
+      "answer": "convoy",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
+    },
+    {
+      "id": "src-mok5fi6h-q038",
+      "type": "fitb",
+      "text": "Complex tasks such as paying bills and driving a car that require intellectual competence and are important for independent living are called ___ activities of daily life.",
+      "answer": "instrumental",
+      "chapter": "web",
+      "source": "File: bergerls11e_Chapter 25.pptx",
+      "module": ""
     }
   ],
   "notes": [
+    {
+      "id": "src-mok5fi6h-n001",
+      "title": "Chapter 25: Late Adulthood – Psychosocial Development (Berger, 11th Ed.)",
+      "chapter": "web",
+      "body": "CHAPTER 25: LATE ADULTHOOD – PSYCHOSOCIAL DEVELOPMENT\nThe Developing Person Through the Life Span | Kathleen Stassen Berger | Eleventh Edition\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 1) — SELF THEORIES\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Self theories emphasize the core self, or the search to maintain one's integrity and identity.\n- Integrity versus despair:\n  • Manifests itself in a life review.\n  • Older adults seek to integrate their unique experiences with their vision of community (Erikson).\n  • Accepting one's whole life and reflecting on that life in a positive manner is critical.\n  • Retaining identity despite life changes and decline is critical.\n\nNOTE: As self theory contends, identity achievement echoes lifelong, with integrity attained for those who achieve identity, and despair (Erikson's opposite course) likely for those who never achieved identity. The critical need in late adulthood is \"retaining a sense of identity despite decline.\"\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 2) — HOLDING ON TO THE SELF\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Most older people feel their personalities and attitudes have remained stable over their life span, even as they recognize the physical changes of their bodies.\n- Objects and places become more precious, as a way to hold on to identity.\n\nNOTE: Trash or Treasure? Tryphona Flood, threatened with eviction, admitted she's a hoarder and got help from Megan Tolen, shown here discussing what in this four-room apartment can be discarded. Flood sits on the only spot of her bed that is not covered with stuff. This photo was taken midway through a three-year effort to clean out the apartment—the clutter was worse a year earlier.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 3) — SOCIOEMOTIONAL SELECTIVITY THEORY\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Socioemotional selectivity theory:\n  • Older people prioritize regulation of their own emotions.\n  • Seek familiar social contacts who reinforce generativity, pride, and joy.\n- Positivity effect:\n  • Tendency for elderly people to perceive, prefer, and remember positive images and experiences more than negative ones.\n\nNOTE: Positivity effect is an outgrowth of socioemotional activity and selective optimization. Research on what people hope for themselves (the ideal self) and how they perceive themselves (the real self) finds that, with age, the two selves come closer together. As self theory contends, self-acceptance leads to happiness.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 4) — STRATIFICATION THEORIES\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Stratification theories:\n  • Emphasize that social forces limit individual choices and affect a person's ability to function in late adulthood.\n  • Past stratification continues to limit life in various ways.\n  • Every stereotype adds to stratification.\n\nNOTE: Ageism takes many forms. Some cultures are youth-oriented, devaluing the old, while others are the opposite. These twin sisters are lucky to be alive: They were born in rural China in 1905, a period when most female twins died. Now, at age 103, they are fortunate again, venerated because they have lived so long.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 5) — STRATIFICATION BY GENDER\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Irrational, gender-based fear may limit women's independence throughout life.\n- Young women typically marry older men.\n- Men seek medical help less than women.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 6) — ETHNIC STRATIFICATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Stratification theory contends that factors such as education, health, employment, and place of residence create large discrepancies in income by old age.\n- Immigrant elders often face multiple challenges related to:\n  • Cultural differences in care by children\n  • Housing\n  • Stereotypes\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 7) — INCOME STRATIFICATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Direct effects of poverty magnify stratification of gender, ethnicity, and age.\n- Employment is directly and indirectly related to income in late adulthood (e.g., Social Security benefits).\n- Stress and accumulating disadvantages are increasingly limiting as age advances.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nTHEORIES OF LATE ADULTHOOD (PART 8) — AGE STRATIFICATION: OPPOSING THEORIES\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Disengagement theory:\n  • Aging makes a person's social sphere increasingly narrow.\n  • Results in role relinquishment, withdrawal, and passivity.\n- Activity theory:\n  • Elderly people want and need to remain active in a variety of social spheres—with relatives, friends, and community groups.\n  • Become withdrawn only unwillingly, as a result of ageism.\n\nNOTE: Industrialized nations segregate elderly people, gradually shunting them out of the mainstream of society as they grow older. Segregation by age harms everyone because it creates socialization deficits for members of all age groups.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nACTIVITIES IN LATE ADULTHOOD (PART 1) — WORKING\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- The activities of older people are intense and varied.\n- The psychological benefits of work can be obtained through volunteer work.\n- Work provides social support and status, boosting self-esteem.\n- For many people, employment allows generativity.\n\nNOTE: Not Ready to Quit — An increasing number of elders are still in the labor force. Why? Do they enjoy the work? Do they need the money? Are they unable to retire?",
+      "module": ""
+    },
     {
       "id": "src-mok5a8r1-n001",
       "title": "Chapter 24: Late Adulthood – Cognitive Development (Berger, 11th Edition)",
