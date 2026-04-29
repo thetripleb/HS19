@@ -208,6 +208,14 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g009",
+      "term": "Alpha-1 Antitrypsin (AAT) Deficiency",
+      "def": "A recessive genetic condition affecting approximately 1 in 1,600 to 5,000 people that increases risk for COPD. AAT is a protein normally made in the liver that protects organs, especially the lungs, from harmful proteins. In those with the defect, the AAT protein is misshapen and cannot leave the liver, increasing risk for both lung disease and liver cirrhosis.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8siwo-g002",
       "term": "Always Single",
       "def": "A subcategory of single adults who have never been married, as distinguished from those who are single due to divorce or widowhood. Research by DePaulo (2014) suggests that always-single individuals show little difference in emotional well-being or health compared to married individuals, particularly when compared to those married four or more years.",
@@ -320,6 +328,14 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g020",
+      "term": "Arthritis",
+      "def": "A broad term referring to inflammation of the joints. Arthritis and other rheumatic conditions are the most common cause of disability among U.S. adults for the past 15 years. Approximately 62% of adults with arthritis are aged 65 or older, and almost 1 in 2 older adults with arthritis have some degree of mobility limitations.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch2-g008",
       "term": "Assimilation and Accommodation (Piaget)",
       "def": "ASSIMILATION: new experiences are interpreted to fit into existing schemas (old ideas). ACCOMMODATION: old ideas are restructured to include new experiences that do not fit. Process: Equilibrium → New experience → Disequilibrium → Adaptation (assimilation or accommodation) → New Equilibrium. Disequilibrium leads to cognitive growth.",
@@ -358,6 +374,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Climacteric | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g002",
+      "term": "Atherosclerosis",
+      "def": "The buildup of fatty deposits or plaques in the walls of arteries, which is the most common type of heart disease. As plaque accumulates, blood cannot flow normally to deliver oxygen throughout the body, and depending on location, can cause a heart attack, leg pain, or stroke. Atherosclerosis is not considered a normal part of aging.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "hd-ch7-g004",
@@ -792,6 +816,14 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g018",
+      "term": "Chemotherapy-Induced Cognitive Impairment",
+      "def": "A decline in cognitive function associated with chemotherapy treatment for cancer, sometimes called 'chemo brain.' In elderly patients, chemotherapy may further exacerbate existing dementia and age-related cognitive declines.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8up14-g012",
       "term": "Cherlin and Furstenberg (1986)",
       "def": "Researchers who described and categorized three principal styles of grandparenting — Remote, Companionate, and Involved — based on the degree of contact and level of authority grandparents exercised in their grandchildren's lives. Their typology remains a foundational framework in the study of grandparent-grandchild relationships.",
@@ -856,12 +888,36 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g008",
+      "term": "Chronic Bronchitis",
+      "def": "A component condition of COPD characterized by chronic inflammation and narrowing of the bronchial tubes, resulting in persistent cough and mucus production. Like emphysema, it is strongly associated with cigarette smoking.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok714ui-g012",
       "term": "Chronic Disease",
       "def": "Long-term health conditions that persist over extended periods and typically cannot be cured but can be managed. Examples relevant to middle adulthood include diabetes and arthritis. Chronic diseases contribute to secondary aging by reducing overall health, physical functioning, and quality of life, and may accelerate other age-related declines.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Introduction | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g001",
+      "term": "Chronic Illness",
+      "def": "An ongoing, generally incurable condition that requires continuing medical attention and affects daily life. Chronic illnesses become more prevalent with age; less than 50% of adults aged 50-64 have a chronic condition, while 90% of adults aged 75 and older do.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-g006",
+      "term": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "def": "A progressive lung disease in which the airways become damaged, making it difficult to breathe. It includes conditions such as emphysema and chronic bronchitis, kills more than 120,000 people per year, and has no cure since the lung damage cannot be reversed. Treatments aim at slowing further damage.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok7h0m2-g005",
@@ -902,6 +958,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Sleep | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g010",
+      "term": "Cirrhosis",
+      "def": "A disease in which the liver becomes scarred and does not function properly. In the context of AAT deficiency, excess accumulation of misshapen AAT protein in the liver can lead to cirrhosis over time.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8ddi8-g001",
@@ -1046,6 +1110,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Erikson: Generativity vs Stagnation | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g014",
+      "term": "Comorbidity",
+      "def": "The simultaneous presence of two or more chronic conditions in the same patient. In elderly cancer patients, comorbidities such as anemia, coronary artery disease, congestive heart failure, COPD, renal insufficiency, and arthritis complicate treatment decisions and outcomes.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8up14-g004",
@@ -1696,6 +1768,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "src-mokbc86z-g007",
+      "term": "Emphysema",
+      "def": "A component condition of COPD in which the air sacs in the lungs are damaged, reducing the surface area available for gas exchange and making it increasingly difficult to breathe. It is most commonly caused by long-term cigarette smoking.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8pasr-g004",
       "term": "Empty Nest",
       "def": "Also called the post-parental period, this refers to the stage of life when children have grown up and left the family home, typically occurring during midlife. It is considered a normative developmental event because parents generally anticipate that their children will eventually leave. The empty nest creates both positive and negative emotional responses depending on the individual and cultural context.",
@@ -1718,6 +1798,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: References | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g022",
+      "term": "Encephalitis",
+      "def": "Inflammation or swelling of the brain. In rare cases, shingles can cause encephalitis as a serious complication, particularly in older or immunocompromised individuals.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok7h0m2-g015",
@@ -2232,6 +2320,14 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g015",
+      "term": "Frailty",
+      "def": "A clinical state characterized by limited life expectancy and near-exhausted functional reserves. Frail individuals are not considered candidates for more toxic forms of chemotherapy due to their reduced ability to tolerate aggressive treatment.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8klv4-g022",
       "term": "Friedman and Rosenman",
       "def": "Two cardiologists who in the 1959 identified Type A Behavior among their heart patients. They found that this behavioral pattern — characterized by competitiveness, impatience, hostility, and time urgency — was associated with double the risk of heart disease compared to individuals without these traits (Type B Behavior).",
@@ -2382,6 +2478,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Midlife Crisis? | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g017",
+      "term": "Geriatrics",
+      "def": "The branch of medicine focused on health care of elderly people. Due to the complexity of treating cancer alongside age-related conditions, expertise in geriatrics alongside oncology is recommended for those caring for elderly cancer patients.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8pasr-g017",
@@ -3208,6 +3312,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "src-mokbc86z-g005",
+      "term": "Kyphosis",
+      "def": "A progressive curvature of the spine resulting in a hunched-over posture, caused by weakening of the spinal bones due to osteoporosis. Over time, a bent spine can make it difficult to walk or even sit up. Adults gradually lose height as the spinal bones weaken.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8ddi8-g002",
       "term": "Labor Force Participation Rate",
       "def": "The percentage of the civilian non-institutionalized population aged 16 and older that is currently employed. This rate has been declining since its peak in the late 1990s, dropping from 67% to 64% by 2012, with further decline projected to 62% by 2022.",
@@ -3510,6 +3622,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Health Concerns | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g019",
+      "term": "Malnutrition in Cancer",
+      "def": "A condition of inadequate nutrition that has higher prevalence and risk in cancer patients. In elderly cancer patients, malnutrition risk is compounded by diminished sensory function and the metabolic demands of the disease.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8mh67-g023",
@@ -4208,6 +4328,14 @@
       "module": "mnngtb1d86bng"
     },
     {
+      "id": "src-mokbc86z-g016",
+      "term": "Oncology",
+      "def": "The branch of medicine that deals with the prevention, diagnosis, and treatment of cancer. Given the projected increase in older cancer patients, it is recommended that physicians have expertise in both oncology and geriatrics.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok8siwo-g013",
       "term": "Online Dating",
       "def": "The use of internet-based platforms to seek romantic or companionate relationships. Montenegro (2003) surveyed over 3,000 singles aged 40–69, finding that almost half cited having someone to talk to or do things with as their most important reason for dating. Alterovitz and Mendelsohn (2013) found that romantic and sexual interests were mentioned at similar rates among middle-aged and young-old online daters, but less so among old-old individuals.",
@@ -4256,12 +4384,28 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g003",
+      "term": "Osteoarthritis",
+      "def": "The most common type of arthritis, occurring when the cartilage on the ends of bones wears away, causing bone to rub against bone. This results in pain, swelling, stiffness, and over time, chronic pain and loss of joint strength. Risk factors include genetics, obesity, age, previous injury, and other medical conditions.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok7mo2g-g008",
       "term": "Osteoporosis",
       "def": "A condition characterized by decreased bone mass and density, leading to increased bone fragility and fracture risk. During menopause, the decline in estrogen—which plays a key role in bone formation—accelerates bone loss and increases a woman's risk of developing osteoporosis.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Climacteric | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g004",
+      "term": "Osteoporosis",
+      "def": "A disease that thins and weakens bones to the point that they become fragile and break easily. After age 50, 1 in 2 women and 1 in 4 men will experience an osteoporosis-related fracture. More than 53 million adults in the U.S. either already have osteoporosis or are at high risk due to low bone mass.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8ddi8-g008",
@@ -4416,6 +4560,14 @@
       "module": ""
     },
     {
+      "id": "src-mokbc86z-g023",
+      "term": "Plaque (Arterial)",
+      "def": "Fatty deposits that accumulate in the walls of arteries in atherosclerosis. Plaque buildup restricts blood flow and oxygen delivery, potentially causing heart attacks, strokes, or leg pain depending on the arteries affected.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch1-g014",
       "term": "Plasticity (Development)",
       "def": "Two complementary aspects: (1) human traits can be molded — people can and do change; (2) people maintain a certain durability of identity. Dynamic systems approach: human development is an ongoing, ever-changing interaction between the physical and emotional being and every aspect of the environment.",
@@ -4462,6 +4614,14 @@
       "chapter": "web",
       "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g013",
+      "term": "Post-Herpetic Neuralgia (PHN)",
+      "def": "Ongoing pain that persists in the area where the shingles rash occurred after the rash itself has resolved. PHN is more likely to develop and be more severe in older individuals. It can interfere with daily activities such as dressing, cooking, and eating, and may cause depression, anxiety, and sleeplessness.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8pasr-g006",
@@ -4846,6 +5006,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Grandparents | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g024",
+      "term": "Renal Insufficiency",
+      "def": "A condition in which the kidneys do not adequately filter waste from the blood. In elderly cancer patients, renal insufficiency is a comorbid condition that can complicate cancer treatment, particularly chemotherapy dosing and clearance.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8siwo-g018",
@@ -5278,6 +5446,22 @@
       "chapter": "5",
       "source": "Berger, 11th ed. — Ch. 5",
       "module": "mnngtb1d86bng"
+    },
+    {
+      "id": "src-mokbc86z-g011",
+      "term": "Shingles (Herpes Zoster)",
+      "def": "A disease affecting the nerves caused by reactivation of the varicella-zoster virus (VZV), the same virus that causes chickenpox. It produces pain, burning, tingling, itching, rash, and blisters, typically on one side of the body or face. About 1 in 3 adults will develop shingles, with half of all cases occurring in adults aged 60 or older.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-g021",
+      "term": "Shingles Vaccine",
+      "def": "A vaccine recommended for adults aged 60 and older to reduce the risk of developing shingles and its complications, including post-herpetic neuralgia. It is a preventive measure against reactivation of the varicella-zoster virus.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8siwo-g001",
@@ -5958,6 +6142,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: The Climacteric and Sexuality | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-g012",
+      "term": "Varicella-Zoster Virus (VZV)",
+      "def": "The virus responsible for both chickenpox and shingles. After recovery from chickenpox, VZV remains dormant in nerve cells and can reactivate later in life as shingles, particularly in older adults or immunocompromised individuals.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok7mo2g-g007",
@@ -9808,6 +10000,150 @@
       "chapter": "web",
       "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-f001",
+      "front": "What percentage of adults aged 75 and older have a chronic condition?",
+      "back": "90% of adults aged 75 and older have a chronic condition, compared to less than 50% of adults aged 50-64.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f002",
+      "front": "Which gender of older adults is more likely to have a chronic condition, and what are the respective percentages?",
+      "back": "Older women are more likely to have a chronic condition than older men (88% vs. 83%), according to CDC 2009 data.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f003",
+      "front": "What percentage of newly diagnosed cancers and cancer deaths occur in persons over 65?",
+      "back": "Persons over 65 account for 60% of newly diagnosed cancers and 70% of all cancer deaths.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f004",
+      "front": "What is atherosclerosis, and why is it not considered a normal part of aging?",
+      "back": "Atherosclerosis is the buildup of fatty plaques in artery walls that restricts blood flow. It is not a normal part of aging because an older heart can normally pump blood as strongly as a younger heart; reduced pumping ability is caused by disease, not age.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f005",
+      "front": "What are the leading risk factors for developing COPD?",
+      "back": "The leading cause is cigarette smoking. Other causes include pipe or cigar smoking (especially if inhaled), long-term exposure to secondhand smoke, chemical fumes, dust, and the genetic condition alpha-1 antitrypsin (AAT) deficiency.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f006",
+      "front": "What is alpha-1 antitrypsin deficiency, and how does it cause both lung and liver disease?",
+      "back": "AAT deficiency is a recessive genetic condition (affecting 1 in 1,600–5,000 people) where the AAT protein is misshapen and cannot leave the liver. This deprives the lungs of protection against harmful proteins (raising COPD risk) and causes excess protein accumulation in the liver, potentially leading to cirrhosis.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f007",
+      "front": "What is post-herpetic neuralgia (PHN) and who is most at risk?",
+      "back": "PHN is ongoing pain in the area where a shingles rash occurred after the rash resolves. Older individuals are most at risk — the older a person is when they get shingles, the greater the chance of developing PHN, which can interfere with daily activities and cause depression, anxiety, and sleeplessness.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f008",
+      "front": "How does shingles differ from chickenpox in terms of cause and presentation?",
+      "back": "Both are caused by the varicella-zoster virus (VZV). Chickenpox is the initial infection; shingles is a reactivation of dormant VZV in nerve cells. Unlike chickenpox, shingles typically affects only one side of the body or face in a limited area, producing pain, burning, blisters, and rash.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f009",
+      "front": "What are the serious complications that can result from a shingles infection?",
+      "back": "Complications include infected or scarring blisters, eye damage or blindness (blisters near/in the eye), brief facial paralysis, hearing loss, and rarely encephalitis (brain swelling).",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f010",
+      "front": "Why is depression screening recommended for elderly cancer patients?",
+      "back": "Depression is associated with weight loss, failure to thrive, and reduced motivation to receive treatment. Depression has been associated with decreased survival rates in elderly cancer patients.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f011",
+      "front": "What are the osteoporosis lifetime fracture statistics by sex after age 50?",
+      "back": "After age 50, 1 in 2 women and 1 in 4 men will experience an osteoporosis-related fracture in their lifetime, commonly affecting the hip, spine, and wrist.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f012",
+      "front": "What are the recommended strategies to prevent bone mass loss and osteoporosis?",
+      "back": "Eating a healthy diet with adequate calcium and vitamin D, engaging in regular exercise, limiting alcohol consumption, and not smoking.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f013",
+      "front": "What percentage of adults with arthritis are aged 65 and older, and what functional limitations do they face?",
+      "back": "Approximately 62% of adults with arthritis are aged 65 and older. Almost 1 in 2 older adults with arthritis experience some degree of mobility limitations, such as difficulty climbing stairs, walking, and grasping objects.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f014",
+      "front": "How does chemotherapy affect cognitive function in elderly cancer patients?",
+      "back": "Chemotherapy has been found to compromise cognitive function in cancer patients ('chemo brain'), and in elderly patients it may further exacerbate existing dementia and age-related cognitive declines, complicating treatment decisions.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f015",
+      "front": "What does the data from Table 9.7 reveal about major cardiovascular disease as a cause of death with increasing age?",
+      "back": "The percentage of deaths due to major cardiovascular disease increases consistently with age: 24.3% (ages 45-54), 26.5% (55-64), 27.7% (65-74), 31.6% (75-84), and 38.9% (85+), making it an increasingly dominant cause of death in very old age.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f016",
+      "front": "Why are frail elderly individuals not considered candidates for toxic chemotherapy?",
+      "back": "Frail individuals are defined as having limited life expectancy and near-exhausted functional reserves. Their compromised organ systems and reduced resilience make it unlikely they can tolerate aggressive chemotherapy, and the risks outweigh potential benefits.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f017",
+      "front": "What is kyphosis and what causes it in older adults?",
+      "back": "Kyphosis is a progressive spinal curvature resulting in a hunched-over posture. In older adults, it is caused by weakening and compression of spinal bones due to osteoporosis. Over time it can make walking and even sitting up difficult, and adults also gradually lose height.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-f018",
+      "front": "Is shingles contagious? Can someone catch shingles from an infected person?",
+      "back": "Shingles itself is not contagious from person to person. However, someone who has not had chickenpox can catch chickenpox (not shingles) from a person with an active shingles infection.",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "questions": [
@@ -19081,9 +19417,421 @@
       "chapter": "web",
       "source": "File: bergerls11e_Chapter 25.pptx",
       "module": ""
+    },
+    {
+      "id": "src-mokbc86z-q001",
+      "type": "mc",
+      "text": "What percentage of adults aged 75 and older have at least one chronic condition?",
+      "answer": "90%",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Less than 50%",
+        "Approximately 70%",
+        "About 80%",
+        "90%"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q002",
+      "type": "mc",
+      "text": "According to the 2013 death data, which age group had the highest percentage of deaths attributed to major cardiovascular disease?",
+      "answer": "85+",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "45-54",
+        "65-74",
+        "75-84",
+        "85+"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q003",
+      "type": "mc",
+      "text": "What percentage of newly diagnosed cancers occur in individuals over the age of 65?",
+      "answer": "60%",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q004",
+      "type": "mc",
+      "text": "Which of the following is the most common type of arthritis?",
+      "answer": "Osteoarthritis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Rheumatoid arthritis",
+        "Psoriatic arthritis",
+        "Osteoarthritis",
+        "Gout"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q005",
+      "type": "mc",
+      "text": "What is the leading cause of COPD?",
+      "answer": "Cigarette smoking",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Alpha-1 antitrypsin deficiency",
+        "Long-term secondhand smoke exposure",
+        "Cigarette smoking",
+        "Workplace dust exposure"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q006",
+      "type": "mc",
+      "text": "The alpha-1 antitrypsin (AAT) deficiency affects approximately how many people?",
+      "answer": "1 in 1,600 to 5,000",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "1 in 500 to 1,000",
+        "1 in 1,600 to 5,000",
+        "1 in 10,000 to 20,000",
+        "1 in 50,000"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q007",
+      "type": "mc",
+      "text": "Which virus is responsible for causing shingles?",
+      "answer": "Varicella-zoster virus",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Herpes simplex virus type 1",
+        "Epstein-Barr virus",
+        "Varicella-zoster virus",
+        "Cytomegalovirus"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q008",
+      "type": "mc",
+      "text": "Post-herpetic neuralgia (PHN) is best described as:",
+      "answer": "Ongoing pain in the area where the shingles rash occurred after the rash disappears",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "A rash that spreads after shingles resolves",
+        "Ongoing pain in the area where the shingles rash occurred after the rash disappears",
+        "Inflammation of the brain caused by shingles",
+        "Blistering of the skin on both sides of the body following shingles"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q009",
+      "type": "mc",
+      "text": "After age 50, what is the estimated lifetime risk of an osteoporosis-related fracture for women?",
+      "answer": "1 in 2",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "1 in 4",
+        "1 in 3",
+        "1 in 2",
+        "1 in 6"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q010",
+      "type": "mc",
+      "text": "Which condition results from weakening spinal bones in osteoporosis and causes a hunched-over posture?",
+      "answer": "Kyphosis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Scoliosis",
+        "Lordosis",
+        "Kyphosis",
+        "Spinal stenosis"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q011",
+      "type": "mc",
+      "text": "In AAT deficiency, the AAT protein is misshapen and accumulates in the liver, potentially causing which serious liver condition?",
+      "answer": "Cirrhosis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Fatty liver disease",
+        "Liver cancer"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q012",
+      "type": "mc",
+      "text": "At what age is the shingles vaccine currently recommended?",
+      "answer": "60 and older",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "50 and older",
+        "55 and older",
+        "60 and older",
+        "65 and older"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q013",
+      "type": "mc",
+      "text": "Which of the following is NOT listed as a risk factor for osteoarthritis?",
+      "answer": "Low vitamin D",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "Genetics",
+        "Obesity",
+        "Low vitamin D",
+        "Previous injury"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q014",
+      "type": "mc",
+      "text": "How long do most cases of shingles last?",
+      "answer": "3 to 5 weeks",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "1 to 2 weeks",
+        "3 to 5 weeks",
+        "6 to 8 weeks",
+        "More than 3 months"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q015",
+      "type": "mc",
+      "text": "Approximately what percentage of adults with arthritis are aged 65 or older?",
+      "answer": "62%",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi",
+      "options": [
+        "42%",
+        "52%",
+        "62%",
+        "72%"
+      ]
+    },
+    {
+      "id": "src-mokbc86z-q016",
+      "type": "tf",
+      "text": "Atherosclerosis is considered a normal part of the aging process.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q017",
+      "type": "tf",
+      "text": "An older healthy heart can normally pump blood as strongly as a younger healthy heart.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q018",
+      "type": "tf",
+      "text": "Shingles can be transmitted from one person to another as shingles.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q019",
+      "type": "tf",
+      "text": "Persons over 65 account for 70% of all cancer deaths.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q020",
+      "type": "tf",
+      "text": "COPD can be cured if detected early enough and the patient stops smoking.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q021",
+      "type": "tf",
+      "text": "Depression in elderly cancer patients is associated with decreased survival rates.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q022",
+      "type": "tf",
+      "text": "Both men and women over age 50 have an equal lifetime risk of experiencing an osteoporosis-related fracture.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q023",
+      "type": "tf",
+      "text": "About half of all shingles cases occur in adults aged 60 or older.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q024",
+      "type": "tf",
+      "text": "Older women are more likely to have a chronic condition than older men.",
+      "answer": "true",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q025",
+      "type": "tf",
+      "text": "Frail elderly cancer patients are considered ideal candidates for the most aggressive forms of chemotherapy because they need the strongest treatment available.",
+      "answer": "false",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q026",
+      "type": "fitb",
+      "text": "The ___ is the most common cause of disability among U.S. adults and has held this distinction for the past 15 years.",
+      "answer": "arthritis (and other rheumatic conditions)",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q027",
+      "type": "fitb",
+      "text": "The ___ protein, produced in the liver, normally protects the lungs from damage caused by harmful proteins.",
+      "answer": "alpha-1 antitrypsin (AAT)",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q028",
+      "type": "fitb",
+      "text": "After recovery from chickenpox, the varicella-zoster virus remains dormant in ___ and may reactivate as shingles later in life.",
+      "answer": "nerve cells",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q029",
+      "type": "fitb",
+      "text": "Ongoing pain that persists after a shingles rash has healed is called ___.",
+      "answer": "post-herpetic neuralgia (PHN)",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q030",
+      "type": "fitb",
+      "text": "In osteoporosis, weakening of the bones in the spine causes adults to lose height and develop a hunched posture known as ___.",
+      "answer": "kyphosis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q031",
+      "type": "fitb",
+      "text": "Chemotherapy has been found to compromise ___ in elderly cancer patients, and may worsen existing dementia.",
+      "answer": "cognitive function",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q032",
+      "type": "fitb",
+      "text": "___ is defined as the buildup of fatty deposits or plaques in the walls of arteries and is the most common type of heart disease.",
+      "answer": "Atherosclerosis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q033",
+      "type": "fitb",
+      "text": "COPD includes two main conditions: emphysema and ___.",
+      "answer": "chronic bronchitis",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q034",
+      "type": "fitb",
+      "text": "In the context of cancer treatment in the elderly, ___ is defined as having limited life expectancy and near-exhausted functional reserves, making toxic chemotherapy inappropriate.",
+      "answer": "frailty",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-mokbc86z-q035",
+      "type": "fitb",
+      "text": "After age 50, ___ in 2 women and 1 in 4 men will experience an osteoporosis-related fracture in their lifetime.",
+      "answer": "1",
+      "chapter": "web",
+      "source": "courses.lumenlearning.com: Chronic Conditions | Lifespan Development",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "notes": [
+    {
+      "id": "src-mokbc86z-n001",
+      "title": "Chronic Conditions | Lifespan Development – Complete Study Notes",
+      "chapter": "web",
+      "body": "CHRONIC CONDITIONS – OVERVIEW\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Chronic illnesses: ongoing, generally incurable conditions requiring continuing medical attention and affecting daily life\n- As individuals live longer, diseases affecting older individuals become more prevalent\n- Burden of chronic illness grows with age\n- Less than 50% of adults aged 50–64 have a chronic condition (Cohen, 2011)\n- 90% of adults aged 75 and up have a chronic condition (Cohen, 2011)\n- Older women are MORE likely to have a chronic condition than older men: 88% vs. 83% (CDC, 2009)\n- Table 9.6: Lists percentage of older adults with certain chronic illnesses (National Health Survey, 2014)\n- Other studies place diabetes in older adults at 26% (CDC, 2014)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nCANCER AND MAJOR CARDIOVASCULAR DISEASE – OVERVIEW\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Cancer and cardiovascular disease are the overall leading causes of death\n- Especially high reasons for death in middle and late adults\n- Table 9.7: Death percentages by cause for selected age groups (2013, most recent year for data)\n  Source: Xu, Murphy, Kochanek, & Bastian (2016)\n\n  2013 CAUSES OF DEATH TABLE:\n  | Age Group | Cancer | Major Cardiovascular Disease |\n  |-----------|--------|------------------------------|\n  | 45–54     | 6.4%   | 24.3%                        |\n  | 55–64     | 13.7%  | 26.5%                        |\n  | 65–74     | 24.9%  | 27.7%                        |\n  | 75–84     | 24.5%  | 31.6%                        |\n  | 85+       | 12%    | 38.9%                        |\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nCANCER\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Advancing age is a significant risk factor for cancer\n- Persons over 65 account for:\n  • 60% of newly diagnosed cancers (Berger et al., 2006)\n  • 70% of all cancer deaths (Berger et al., 2006)\n- More than 70% of mortality associated with many cancers occur in patients 65 and older, including:\n  • Prostate, bladder, colon, uterus, pancreas, stomach, rectum, and lung cancers\n- Other conditions that affect elderly and can occur WITH cancer (comorbidities):\n  • Anemia\n  • Coronary artery diseases\n  • Congestive heart failure\n  • Chronic obstructive pulmonary diseases (COPD)\n  • Renal insufficiency\n  • Cerebrovascular diseases\n  • Neurovascular complications of diabetes mellitus\n  • Arthritis that restricts mobility\n  Source: Balducci & Extermann (2000)\n- Comorbidity will complicate treatment\n\nBALDUCCI AND EXTERMANN (2000) – CANCER TREATMENT CONCERNS IN THE ELDERLY:\n- With aging, there is a decline in multiple organ systems that can adversely affect the ability of medications to treat cancer\n- Chemotherapy has been found to compromise cognitive function in those being treated for cancer\n- Chemotherapy may further exacerbate dementia and elderly cognitive declines\n- Frail individuals (defined as having limited life expectancy and near-to-exhausted functional reserves) are NOT considered candidates for more toxic forms of chemotherapy\n- Prevalence and risk of malnutrition are higher with cancer\n- Diminished visual and hearing function makes elderly cancer patients more susceptible to environmental injury\n- Screening for depression is recommended because:\n  • Depression is associated with weight loss\n  • Depression associated with failure to thrive\n  • Depression may reduce motivation to receive treatment\n  • Depression has been associated with decreased survival rates in the elderly\n- Due to projected increase in total number of older patients with cancer, it is recommended that physicians and caretakers have expertise in BOTH oncology and geriatrics (Berger et al., 2006)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nHEART DISEASE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Age-related changes to the heart that may increase risk of heart disease include:\n  • Stiffening blood vessels and valves\n  • May result in leaks or problems pumping blood out of the heart (NIA, 2012)\n- Heart disease is the leading cause of death for those in late adulthood (CDC, 2016b)\n- Most common type: Atherosclerosis – buildup of fatty deposits or plaques in walls of arteries\n  • As plaque builds up, blood is unable to flow normally and bring oxygen throughout the body, including to the heart\n  • Depending on where buildup is, atherosclerosis can cause:\n    – Heart attack\n    – Leg pain\n    – Stroke\n- IMPORTANT DISTINCTION: Atherosclerosis is NOT part of normal aging\n- Many problems older people have with heart and blood vessels are caused by DISEASE, not by aging\n- Example: An older heart can normally pump blood as strongly as a younger heart; less ability to pump is caused by disease\n- Leading a heart-healthy lifestyle is most important to keeping one's heart strong in late adulthood\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nARTHRITIS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Arthritis and other rheumatic conditions are the MOST COMMON cause of disability among US adults\n- Have been the most common cause of disability among US adults for the past 15 years (NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases, 2014)\n- Approximately 62% of adults with arthritis are 65 years old and up (NIH)\n- Almost 1 in 2 older adults with arthritis have some degree of mobility limitations, including:\n  • Climbing stairs\n  • Walking\n  • Grasping objects\n- Pain and limitations of arthritis can increase risk of depression and other forms of mental distress\n\nOSTEOARTHRITIS:\n- Most common type of arthritis\n- Definition: When the cartilage (the slick, cushioning surface on the ends of bones) wears away, bone rubs against bone, causing pain, swelling, and stiffness. Over time, joints can lose strength and pain may become chronic. (Arthritis Foundation, 2017)\n- Common risk factors for osteoarthritis:\n  • Genetics\n  • Obesity\n  • Age\n  • Previous injury\n  • Other medical conditions\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nOSTEOPOROSIS AND KYPHOSIS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Osteoporosis: A disease that thins and weakens bones to the point that they become fragile and break easily\n- After age 50:\n  • 1 in 2 women will experience an osteoporosis-related fracture in their lifetime\n  • 1 in 4 men will experience an osteoporosis-related fracture in their lifetime\n  • Often leading to hip, spine, and wrist fractures (Dailey & Cravedi, 2006)\n- Broken hips are a very serious problem with aging\n  • They greatly increase the risk of death, especially during the year after they break (NIH Senior Health, 2015)\n- In the U.S., more than 53 million adults either already have osteoporosis or are at high risk due to low bone mass (NIH Senior Health, 2015)\n\nKYPHOSIS:\n- As bones weaken in the spine, adults gradually lose height and posture becomes hunched over → called Kyphosis\n- Over time, a bent spine can make it hard to walk or even sit up\n\nPREVENTION OF BONE MASS LOSS:\n- Eating a healthy diet with enough calcium and vitamin D\n- Regularly exercising\n- Limiting alcohol\n- Not smoking\n  Source: National Osteoporosis Foundation (2016)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nCHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Definition: A progressive lung disease in which the airways become damaged, making it difficult to breathe\n- COPD includes: Emphysema and chronic bronchitis (NIH Senior Health, 2013)\n- COPD kills more than 120,000 people every year → one of the leading causes of death\n- COPD develops slowly; people may not notice early signs\n- Early symptoms may be attributed to age or lack of physical exercise\n- Most people are NOT diagnosed until midlife or late adulthood\n- There is NO CURE; damage cannot be reversed\n- Treatments aim at slowing further damage\n\nCAUSES OF COPD:\n- Cigarette smoking is the LEADING cause of COPD\n- Other tobacco smoking (pipe, cigar) can cause COPD, especially if smoke is inhaled\n- Heavy or long-term exposure to secondhand smoke can also lead to COPD (NIH Senior Health, 2013)\n- Long-term exposure to other environmental irritants:\n  • Chemical fumes\n  • Dust from environment and workplace\n\nGENETIC CAUSE – ALPHA-1 ANTITRYPSIN (AAT) DEFICIENCY:\n- About 1 in every 1,600 to 5,000 people have a risk for COPD due to AAT deficiency\n- AAT deficiency is a recessive genetic condition (NIH, 2011)\n- AAT is a protein made in the LIVER that protects organs, especially the lungs, from the effects of other harmful proteins\n- In those with the genetic defect:\n  • The AAT protein created is the WRONG SHAPE and cannot leave the liver\n  • This leads to heightened risk for lung disease\n  • Excess AAT protein can lead to CIRRHOSIS (disease in which liver becomes scarred and does not function properly) → risk for liver disease\n- Some people with AAT deficiency are not affected and live a normal life\n- COPD is more likely in AAT deficiency individuals if their lungs are exposed to environmental irritants\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSHINGLES\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n- Source: National Institute on Aging (2015e)\n- Definition: A disease that affects the nerves\n- Caused by the same virus as chicken pox: the varicella-zoster virus (VZV)\n- After recovery from chickenpox, the virus continues to live in some nerve cells\n- Usually inactive; most adults live with VZV in their body and NEVER get shingles\n- However, the virus becomes active in 1 in 3 adults\n- Instead of causing chickenpox again, it produces shingles\n\nRISK FACTORS FOR SHINGLES:\n- Advanced age: People have a harder time fighting off infections as they get older\n- About HALF of all shingles cases are in adults age 60 or older\n- The chance of getting shingles becomes much greater by age 70\n- Other factors that weaken ability to fight infections:\n  • Cancer\n  • HIV infections\n  • Other medical conditions\n\nSYMPTOMS OF SHINGLES:\n- Pain, burning, tingling, or itching in the affected area\n- A rash and blisters\n- Typically develops on ONLY ONE SIDE of the body or face\n- Develops in a SMALL AREA rather than all over\n- Most cases last 3 to 5 weeks\n\nPOST-HERPETIC NEURALGIA (PHN):\n- After shingles rash goes away, some people may be left with ongoing pain called post-herpetic neuralgia (PHN) in the area where the rash had been (NIA, 2015e)\n- The OLDER one is when getting shingles, the greater the chance of developing PHN\n- PHN effects:\n  • Hard to perform daily activities (dressing, cooking, eating)\n  • Depression, anxiety, and sleeplessness\n- Medicines can help with pain\n- PHN will usually disappear\n\nCOMPLICATIONS OF SHINGLES:\n- Blisters may become infected or leave a scar\n- Blisters near or in the eye can cause lasting eye damage or blindness\n- Brief paralysis of the face\n- Hearing loss\n- Very rarely, swelling of the brain (encephalitis)\n\nSHINGLES VACCINE AND CONTAGION:\n- Shingles vaccine is recommended for those aged 60 and older\n- Shingles is NOT contagious\n- However, one CAN catch chickenpox from someone with shingles\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n★ KEY EXAM POINTS\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. Less than 50% of adults 50–64 have a chronic condition; 90% of adults 75+ do (Cohen, 2011)\n2. Older women are MORE likely than older men to have a chronic condition (88% vs. 83%) (CDC, 2009)\n3. Persons over 65 account for 60% of newly diagnosed cancers and 70% of all cancer deaths (Berger et al., 2006)\n4. Chemotherapy can compromise cognitive function and may exacerbate dementia in elderly patients\n5. Frail individuals are NOT candidates for more toxic forms of chemotherapy\n6. Depression in elderly cancer patients is associated with decreased survival rates\n7. Atherosclerosis is NOT part of normal aging — it is caused by disease\n8. Arthritis/rheumatic conditions = MOST COMMON cause of disability among US adults for the past 15 years\n9. 62% of adults with arthritis are aged 65 and up; almost 1 in 2 have mobility limitations\n10. Osteoporosis: After age 50, 1 in 2 women and 1 in 4 men will experience a related fracture\n11. More than 53 million US adults have osteoporosis or are at high risk from low bone mass\n12. Kyphosis = hunched posture caused by weakening spine bones (consequence of osteoporosis)\n13. COPD is progressive, incurable, and kills more than 120,000 people/year\n14. Cigarette smoking = leading cause of COPD\n15. AAT deficiency: recessive genetic condition affecting 1 in 1,600–5,000 people; wrongly shaped AAT protein cannot leave liver, increasing COPD and cirrhosis risk\n16. Shingles caused by varicella-zoster virus (VZV); affects 1 in 3 adults; half of cases in adults 60+\n17. Shingles: develops on only ONE SIDE of body; lasts 3–5 weeks\n18. Post-herpetic neuralgia (PHN): ongoing pain after shingles rash — more common the older one is\n19. Shingles vaccine recommended at age 60+; shingles is NOT contagious but CAN transmit chickenpox\n20. Major cardiovascular disease death percentage increases with age: from 24.3% (age 45–54) to 38.9% (age 85+)",
+      "module": "mobqreyyr9ixi"
+    },
     {
       "id": "src-mok3r90u-n001",
       "title": "Chapter 24: Late Adulthood – Cognitive Development (Berger, 11e)",
