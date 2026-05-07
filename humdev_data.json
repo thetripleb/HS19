@@ -832,6 +832,14 @@
       "module": "mobqreyyr9ixi"
     },
     {
+      "id": "src-moc75zkz-g009",
+      "term": "Autism Spectrum Disorder (ASD)",
+      "def": "A neurodevelopmental disorder characterized by challenges in social communication, repetitive behaviours, and varying levels of functional ability.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mokayf0m-g013",
       "term": "Autoimmune Disease",
       "def": "A condition in which the immune system mistakenly attacks the body's own tissues. Women are slightly more prone to autoimmune and inflammatory diseases (e.g., rheumatoid arthritis) than men, though their overall immune system deteriorates more slowly with age.",
@@ -1064,6 +1072,22 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Sleep | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-moc75zkz-g006",
+      "term": "Behaviour Shaping",
+      "def": "A technique in which successive approximations of a desired behaviour are reinforced gradually until the target behaviour is achieved.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g012",
+      "term": "Behaviourist Learning",
+      "def": "A theory of learning that focuses on observable behaviours and the role of environmental stimuli and consequences in shaping those behaviours.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8siwo-g003",
@@ -5618,6 +5642,14 @@
       "module": ""
     },
     {
+      "id": "src-moc75zkz-g014",
+      "term": "Individualized Adjustment",
+      "def": "The practice of tailoring teaching strategies and reinforcement techniques to meet the specific needs and responses of each individual student.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok7se58-g006",
       "term": "Inductive Reasoning",
       "def": "The cognitive ability to generalize from particular examples to broader principles or patterns. According to the Seattle Longitudinal Study, inductive reasoning increases with age until one's 70s and is one of four cognitive tasks on which middle-aged adults outperform their younger selves.",
@@ -6379,6 +6411,14 @@
       "def": "Body tissue that is primarily composed of muscle, bone, and organs rather than fat. After age 30, the body tends to lose lean tissue as cells in muscles, the liver, kidneys, and other organs are gradually lost, contributing to changes in body composition, metabolism, and strength over time.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Physical Changes of Aging | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g013",
+      "term": "Learning Disabilities",
+      "def": "Neurological conditions that affect a person's ability to receive, process, analyze, or store information, impacting academic performance.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
       "module": "mobqreyyr9ixi"
     },
     {
@@ -7792,6 +7832,22 @@
       "module": ""
     },
     {
+      "id": "src-moc75zkz-g005",
+      "term": "Negative Punishment",
+      "def": "The removal of a desirable stimulus after an undesired behaviour in order to decrease the recurrence of that behaviour.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g003",
+      "term": "Negative Reinforcement",
+      "def": "The removal of an unpleasant stimulus following a behaviour to strengthen and encourage repetition of that behaviour.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mokcbwd6-g006",
       "term": "Neglect and Abandonment",
       "def": "The intentional or unintentional refusal or failure of a caregiver to fulfill their caregiving obligations to an elder, including providing food, shelter, health care, or protection. Abandonment involves deserting an elder. An estimated 100,000 older adults with severe disabilities are abandoned in emergency rooms each year by family members.",
@@ -8221,6 +8277,14 @@
       "def": "A personality trait characterized by curiosity, creativity, and a willingness to engage with new ideas and perspectives. Identified by Baltes and Kunzmann as one of the personality characteristics that provides the building blocks of wisdom, alongside generativity and other-focused experiences.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: Intelligence and Wisdom | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g001",
+      "term": "Operant Conditioning",
+      "def": "A learning theory developed by B.F. Skinner in which behaviour is shaped by its consequences, including reinforcement and punishment.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
       "module": "mobqreyyr9ixi"
     },
     {
@@ -8832,6 +8896,22 @@
       "module": "mobqreyyr9ixi"
     },
     {
+      "id": "src-moc75zkz-g004",
+      "term": "Positive Punishment",
+      "def": "The addition of an unpleasant stimulus after an undesired behaviour to reduce the likelihood of that behaviour recurring.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g002",
+      "term": "Positive Reinforcement",
+      "def": "The addition of a favourable stimulus following a desired behaviour to increase the likelihood of that behaviour recurring.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok5fi6h-g005",
       "term": "Positivity effect",
       "def": "The tendency observed in elderly people to perceive, prefer, and remember positive images and experiences more than negative ones. It is considered an outgrowth of socioemotional selectivity theory and selective optimization with compensation, and it reflects the convergence of the ideal self and real self with age.",
@@ -9410,6 +9490,14 @@
       "module": "mnnxvcre63ogf"
     },
     {
+      "id": "src-moc75zkz-g011",
+      "term": "Punishment",
+      "def": "A consequence following a behaviour that decreases the likelihood of that behaviour occurring again in the future.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mok79op8-g021",
       "term": "Pupil Reactivity",
       "def": "The ability of the pupil to constrict and dilate in response to changes in light levels. With aging, the pupil loses some of its range of motion and speed of response, reducing the amount of light entering the eye in dim conditions and increasing glare sensitivity in bright conditions.",
@@ -9576,6 +9664,14 @@
       "chapter": "web",
       "source": "courses.lumenlearning.com: Digestive Issues | Lifespan Development",
       "module": ""
+    },
+    {
+      "id": "src-moc75zkz-g010",
+      "term": "Reinforcement",
+      "def": "Any event or stimulus that follows a behaviour and increases the probability that the behaviour will be repeated in the future.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
     },
     {
       "id": "src-mok8klv4-g020",
@@ -11042,6 +11138,14 @@
       "module": ""
     },
     {
+      "id": "src-moc75zkz-g008",
+      "term": "Special Education",
+      "def": "Educational programs and services specifically designed to meet the unique needs of students with disabilities or learning difficulties.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "hd-ch11-g007",
       "term": "Special Education: LRE, RTI, IEP",
       "def": "LEAST RESTRICTIVE ENVIRONMENT (LRE): legal requirement that children with special needs be assigned to the most general educational context in which they can be expected to learn. RESPONSE TO INTERVENTION (RTI): educational strategy using early intervention to help children demonstrating below-average achievement; only children not helped are designated for more intensive measures. INDIVIDUAL EDUCATION PLAN (IEP): a document that specifies educational goals and plans for a child with special needs. Challenge: diagnosis and intervention often occur too late ('wait to fail' approach).",
@@ -11386,6 +11490,14 @@
       "module": ""
     },
     {
+      "id": "src-moc75zkz-g015",
+      "term": "Symbolic Rewards",
+      "def": "Non-monetary tokens such as stickers or stars used as positive reinforcement to motivate desired behaviours in students.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
       "id": "src-mokbf2x1-g002",
       "term": "Synaptic Pruning",
       "def": "The process by which the brain eliminates weaker or less-used synaptic connections. In aging, reduced activity of genes involved in synaptic pruning contributes to cognitive decline. This process is also critical during development for refining neural circuits.",
@@ -11639,6 +11751,14 @@
       "def": "A memory retrieval failure in which a person feels certain they know a word or name but cannot immediately produce it. Research by Dahlgren (1998) found that tip-of-the-tongue rates are influenced by both knowledge and age, with older adults experiencing increased frequency of these retrieval failures.",
       "chapter": "web",
       "source": "courses.lumenlearning.com: References | Lifespan Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-g007",
+      "term": "Token Economy",
+      "def": "A behaviour management system in which students earn tokens as rewards for good behaviour, which can later be exchanged for larger rewards.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
       "module": "mobqreyyr9ixi"
     },
     {
@@ -20337,6 +20457,70 @@
       "back": "Syntonic refers to the positive outcome at a given stage (e.g., trust, autonomy), while dystonic refers to the negative outcome (e.g., mistrust, shame). Both are possible at every stage.",
       "chapter": "web",
       "source": "www.verywellmind.com: Erikson's Stages of Psychosocial Development",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f001",
+      "front": "What is operant conditioning?",
+      "back": "A learning theory by B.F. Skinner in which behaviour is shaped by its consequences through reinforcement and punishment following specific actions.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f002",
+      "front": "What is the difference between positive and negative reinforcement?",
+      "back": "Positive reinforcement adds a favourable stimulus to encourage behaviour, while negative reinforcement removes an unpleasant stimulus to strengthen the same behaviour.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f003",
+      "front": "How does positive punishment work in a classroom setting?",
+      "back": "A teacher adds an unpleasant consequence, such as extra assignments, after an undesired behaviour like arriving late to class, to reduce that behaviour.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f004",
+      "front": "What is a token economy system?",
+      "back": "A behaviour management strategy where students earn tokens for displaying good behaviour, which can later be exchanged for larger, more desirable rewards.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f005",
+      "front": "Why is Skinner's theory particularly relevant for special education students?",
+      "back": "Because special education students often require structured learning environments and individualized adjustments, which operant conditioning provides through systematic reinforcement techniques.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f006",
+      "front": "What did Rosales and Sanchez (2021) find about positive reinforcement in autism education?",
+      "back": "They found that praise and symbolic rewards like stickers successfully increased sign language use, verbal communication, social interaction initiative, and language complexity in students with autism.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f007",
+      "front": "What are the four principles of operant conditioning?",
+      "back": "Positive reinforcement, negative reinforcement, positive punishment, and negative punishment — all of which can be used to modify a person's behaviour.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-f008",
+      "front": "Why must punishment be applied carefully in special education?",
+      "back": "Because overly severe punishment can negatively impact students' emotional development, self-confidence, and interest in learning, which are particularly sensitive concerns for special education students.",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
       "module": "mobqreyyr9ixi"
     }
   ],
@@ -40118,9 +40302,136 @@
       "chapter": "web",
       "source": "www.verywellmind.com: Erikson's Stages of Psychosocial Development",
       "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q001",
+      "type": "mc",
+      "text": "Which term describes B.F. Skinner's learning theory that focuses on how behaviour is shaped by its consequences?",
+      "options": [
+        "Classical Conditioning",
+        "Operant Conditioning",
+        "Cognitive Learning Theory",
+        "Social Learning Theory"
+      ],
+      "answer": "Operant Conditioning",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q002",
+      "type": "mc",
+      "text": "What type of reinforcement involves removing an unpleasant stimulus to strengthen a behaviour?",
+      "options": [
+        "Positive Reinforcement",
+        "Positive Punishment",
+        "Negative Punishment",
+        "Negative Reinforcement"
+      ],
+      "answer": "Negative Reinforcement",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q003",
+      "type": "mc",
+      "text": "A teacher gives extra assignments to a student who arrives late to class. Which principle of operant conditioning does this represent?",
+      "options": [
+        "Negative Reinforcement",
+        "Positive Punishment",
+        "Negative Punishment",
+        "Positive Reinforcement"
+      ],
+      "answer": "Positive Punishment",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q004",
+      "type": "mc",
+      "text": "What is the purpose of a token economy system in special education?",
+      "options": [
+        "To punish students who display bad behaviour",
+        "To provide verbal praise only",
+        "To reward good behaviour with tokens that can be exchanged for larger rewards",
+        "To remove unpleasant stimuli from the classroom"
+      ],
+      "answer": "To reward good behaviour with tokens that can be exchanged for larger rewards",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q005",
+      "type": "mc",
+      "text": "According to Rosales and Sanchez (2021), what was a significant outcome of using positive reinforcement with students with autism?",
+      "options": [
+        "Decreased interest in social interaction",
+        "Increased use of sign language and verbal communication",
+        "Reduced academic performance",
+        "Greater reliance on teacher instructions"
+      ],
+      "answer": "Increased use of sign language and verbal communication",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q006",
+      "type": "mc",
+      "text": "Which of the following is an example of negative punishment?",
+      "options": [
+        "Praising a student for completing homework",
+        "Giving a student extra chores for misbehaving",
+        "Removing gadget privileges as a consequence of bad behaviour",
+        "Providing a sticker reward for good behaviour"
+      ],
+      "answer": "Removing gadget privileges as a consequence of bad behaviour",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q007",
+      "type": "mc",
+      "text": "Why is Skinner's operant conditioning considered especially useful for students with Autism Spectrum Disorder (ASD)?",
+      "options": [
+        "It eliminates the need for any classroom rules",
+        "It requires no teacher involvement",
+        "It provides frequent and systematic reinforcement to help students stay focused",
+        "It relies solely on punishment to manage behaviour"
+      ],
+      "answer": "It provides frequent and systematic reinforcement to help students stay focused",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
+    },
+    {
+      "id": "src-moc75zkz-q008",
+      "type": "mc",
+      "text": "According to the article, what must teachers consider when using punishment with special education students?",
+      "options": [
+        "Punishment should be as severe as possible to be effective",
+        "Punishment must be implemented carefully so it does not negatively impact emotional development or self-confidence",
+        "Punishment should replace all forms of reinforcement",
+        "Punishment is not applicable in special education settings"
+      ],
+      "answer": "Punishment must be implemented carefully so it does not negatively impact emotional development or self-confidence",
+      "chapter": "web",
+      "source": "File: Siti+Nur+Adhilah+Mohamed+Nawi.pdf",
+      "module": "mobqreyyr9ixi"
     }
   ],
   "notes": [
+    {
+      "id": "src-moc75zkz-n001",
+      "title": "B.F. Skinner's Learning Theory and Teaching Strategies for Special Education Students",
+      "chapter": "web",
+      "body": "INTRODUCTION\nB.F. Skinner's learning theory, known as operant conditioning, emphasizes that rewards and punishments given after certain actions influence human behaviour. The environment plays a central role in shaping behaviour and the learning process. Skinner's structured approach is particularly useful for special education students who face various learning difficulties. Positive reinforcement such as praise, appreciation, or small rewards can increase motivation and help students succeed academically. Negative reinforcement involves reducing assignments or stressful situations as a student's behaviour or performance improves. Teaching strategies based on Skinner's theory must be adjusted based on each student's individual response to stimuli.\n\nKEY CONCEPTS OF OPERANT CONDITIONING\nOperant conditioning consists of four core principles:\n1. POSITIVE REINFORCEMENT: A favourable event or outcome occurs after a desired action, encouraging repetition of that behaviour. Example: praising a child for completing homework.\n2. NEGATIVE REINFORCEMENT: An unpleasant stimulus is removed to reinforce a behaviour. Example: reducing assignments when a student performs better.\n3. POSITIVE PUNISHMENT: An unpleasant stimulus is added after an undesired behaviour to reduce its recurrence. Example: giving extra assignments to a student who arrives late.\n4. NEGATIVE PUNISHMENT: A desired stimulus is removed after an undesired behaviour. Example: taking away gadget privileges as a consequence of bad behaviour.\n\nSKINNER'S THEORY IN SPECIAL EDUCATION\nOperant conditioning is highly relevant in special education because it requires structured learning environments and individualized adjustments. Teachers can use token economy systems where students earn tokens for good behaviour, which can later be exchanged for larger rewards. For students with Autism Spectrum Disorder (ASD), more frequent and systematic reinforcement training helps maintain focus and understanding of basic concepts. Punishment must be implemented carefully to avoid negatively impacting students' emotional development or self-confidence.\n\nAPPLICATION OF SKINNER'S THEORY IN RESEARCH\nRosales and Sanchez (2021) demonstrated that positive reinforcement using praise and symbolic rewards such as stickers effectively helped students with autism develop communication skills. Key findings include:\n- Increased use of sign language and verbal communication\n- Greater initiative to communicate with peers\n- Better responses to social interactions\n- More complex language use over time\nThe study concluded that positive reinforcement creates a supportive learning environment, enhances self-confidence, and boosts student motivation in special education settings.\n\nIMPLICATIONS FOR TEACHING\nTeachers must plan and implement teaching approaches adapted to the needs of individual students. Continuous application of reinforcement techniques helps students overcome learning challenges, enhance social skills, and build self-confidence. When correctly applied, Skinner's theory can significantly impact academic learning, behavioural changes, and students' social interactions. A flexible and structured approach guided by reinforcement principles allows teachers to monitor student progress more effectively.",
+      "module": "mobqreyyr9ixi"
+    },
     {
       "id": "src-moc748zd-n001",
       "title": "Erikson's Stages of Psychosocial Development",
