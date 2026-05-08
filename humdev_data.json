@@ -2769,6 +2769,11 @@
       "asked": 1,
       "correct": 1,
       "incorrect": 0
+    },
+    "hd-ch12-q003": {
+      "asked": 1,
+      "correct": 0,
+      "incorrect": 1
     }
   }
 }
