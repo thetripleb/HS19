@@ -2739,5 +2739,11 @@
       "updated": "2026-04-06T17:31:09.284Z"
     }
   ],
-  "questionStats": {}
+  "questionStats": {
+    "hd-ch2-q006": {
+      "asked": 1,
+      "correct": 1,
+      "incorrect": 0
+    }
+  }
 }
