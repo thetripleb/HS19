@@ -2809,6 +2809,11 @@
       "asked": 1,
       "correct": 0,
       "incorrect": 1
+    },
+    "hd-ch9-q001": {
+      "asked": 1,
+      "correct": 1,
+      "incorrect": 0
     }
   }
 }
