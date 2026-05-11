@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- v2026-05-10 17:05 -->
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,22 +11,22 @@
 <noscript><link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
 <style>
   :root {
-    --bg: #f5f3fa;
-    --surface: #ffffff;
-    --surface-2: #ede8f5;
-    --border: #cfc8e8;
-    --accent: #5c3d8f;
-    --accent-light: #8b6fc9;
-    --accent-warm: #c77d35;
-    --text: #1a1520;
-    --text-muted: #635878;
-    --text-light: #9488a8;
+    --bg: #100d1a;
+    --surface: #181428;
+    --surface-2: #221c38;
+    --border: #352a52;
+    --accent: #9b6dff;
+    --accent-light: #c4a4ff;
+    --accent-warm: #ff8c5a;
+    --text: #ece8ff;
+    --text-muted: #9080c0;
+    --text-light: #6050a0;
     --danger: #c0392b;
     --success: #27ae60;
-    --tag-bg: #ede8f5;
-    --tag-text: #3d2060;
-    --shadow: 0 2px 12px rgba(26,21,32,0.08);
-    --shadow-lg: 0 8px 32px rgba(26,21,32,0.12);
+    --tag-bg: #1e1838;
+    --tag-text: #c4a4ff;
+    --shadow: 0 2px 12px rgba(16,13,26,0.08);
+    --shadow-lg: 0 8px 32px rgba(16,13,26,0.12);
     --radius: 8px;
     --radius-lg: 14px;
   }
@@ -947,7 +948,7 @@
   .modal-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(26,21,32,0.5);
+    background: rgba(16,13,26,0.5);
     z-index: 200;
     display: none;
     align-items: center;
@@ -1762,7 +1763,7 @@
         Manage Data
       </div>
     </div>
-    <div class="nav-version" id="appVersionBadge">v2.1</div>
+    <div class="nav-version" id="appVersionBadge">v2026-05-10 17:05</div>
   </nav>
 
   <main>
@@ -2140,8 +2141,8 @@ let saveTimer = null;       // debounce handle
 let lastSavedSha = null;    // SHA of data.json on GitHub (needed for updates)
 let syncPending   = false;
 let isPushing     = false;
-const APP_VERSION = '2026-05-10 16:03';
-const BUILD_TS = '20260510160343';
+const APP_VERSION = '{{APP_VERSION}}';
+const BUILD_TS = '{{BUILD_TS}}';
 let _searchBackQuery = null;  // tracks query for deep-link back navigation
 let _lastSyncError = null;
 
